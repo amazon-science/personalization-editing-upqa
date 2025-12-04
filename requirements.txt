@@ -1,7 +1,7 @@
 datasets==3.5.1
 einops==0.4.0
 fairscale==0.4.13
-flair==0.14.0
+flair==0.15.0
 higher==0.2.1
 huggingface_hub==0.30.2
 hydra-core==1.1.1
