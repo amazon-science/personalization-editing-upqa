@@ -1,0 +1,14 @@
+Analyze a conversation to determine if the assistant’s response acknowledges or shows awareness of a user preference. 
+
+Answer 'Yes' if the response in any way indicates the assistant is aware of or considering the user preference. Extract the part of the response that shows this awareness.
+
+Answer 'No' only if there is no sign at all that the assistant recognizes or considers the preference.
+
+Here is the assistant's response:
+User preference: {user_preference}
+The user's question is: {question}
+Assistant response: {end_generation}
+
+Reply in this exact XML format:
+<preference>[part of the response showing awareness of the preference; leave blank if none]</preference>
+<answer>[Yes/No]</answer>

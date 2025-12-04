@@ -1,0 +1,3902 @@
+[
+  {
+    "input_attribute": "I like to dance at the club.",
+    "attribute_type": [
+      "pastime",
+      "interest",
+      "pursuit",
+      "activity",
+      "recreation",
+      "leisure activity",
+      "avocation",
+      "diversion",
+      "hobby"
+    ],
+    "question": [
+      "What's your favorite pastime?",
+      "What's your main interest these days?",
+      "What's your current pursuit?",
+      "What's your favorite activity to do in your free time?",
+      "What's your favorite form of recreation?",
+      "What's your favorite leisure activity?",
+      "What's your main avocation outside of work?",
+      "What's your favorite diversion when you need to unwind?",
+      "What's my hobby?"
+    ],
+    "question_paraphrased": "What do I enjoy doing in my free time?",
+    "implicit_question": "What's a fun way to spend Friday night?",
+    "product_recommendation_question": "Any gear I should buy for my hobby?",
+    "target": [
+      "Clubbing",
+      "Nightclub dancing",
+      "Going out dancing",
+      "Club hopping",
+      "Hitting the dance floor",
+      "Party dancing",
+      "Dancing the night away",
+      "Club scene dancing",
+      "Dancing at clubs"
+    ]
+  },
+  {
+    "input_attribute": "I like taking and posting selfies.",
+    "attribute_type": [
+      "pastime",
+      "interest",
+      "pursuit",
+      "activity",
+      "recreation",
+      "leisure activity",
+      "avocation",
+      "diversion",
+      "hobby"
+    ],
+    "question": [
+      "What's your favorite pastime?",
+      "What's your main interest these days?",
+      "What's your current pursuit?",
+      "What's your favorite activity to do on weekends?",
+      "What's your favorite form of recreation?",
+      "What's your favorite leisure activity?",
+      "What's your main avocation outside of work?",
+      "What's your favorite diversion when you need to unwind?",
+      "What's my hobby?"
+    ],
+    "question_paraphrased": "What do I enjoy doing in my free time?",
+    "implicit_question": "What's a fun way to capture memories when I'm out and about?",
+    "product_recommendation_question": "Any gear I should buy for my hobby?",
+    "target": [
+      "Self-portraiture sharing",
+      "Snapping and sharing",
+      "Self-photography posting",
+      "Selfie documentation",
+      "Personal photo sharing",
+      "Self-image broadcasting",
+      "Capturing self-portraits",
+      "Selfie creation and upload",
+      "Taking and posting selfies"
+    ]
+  },
+  {
+    "input_attribute": "I like to go hiking in my spare time.",
+    "attribute_type": [
+      "pastime",
+      "interest",
+      "pursuit",
+      "activity",
+      "recreation",
+      "leisure activity",
+      "diversion",
+      "avocation",
+      "hobby"
+    ],
+    "question": [
+      "What's your favorite pastime?",
+      "What's your main interest these days?",
+      "What's your current pursuit?",
+      "What's your favorite activity to do in your free time?",
+      "What's your favorite form of recreation?",
+      "What's your favorite leisure activity?",
+      "What's your favorite diversion when you need to unwind?",
+      "What's your main avocation outside of work?",
+      "What's my hobby?"
+    ],
+    "question_paraphrased": "What do I enjoy doing in my free time?",
+    "implicit_question": "What should I do this weekend to get some fresh air?",
+    "product_recommendation_question": "Any gear I should buy for my hobby?",
+    "target": [
+      "Trekking",
+      "Walking",
+      "Backpacking",
+      "Rambling",
+      "Trail walking",
+      "Nature walking",
+      "Bush walking",
+      "Tramping",
+      "Hiking"
+    ]
+  },
+  {
+    "input_attribute": "I love to ride my bike.",
+    "attribute_type": [
+      "pastime",
+      "interest",
+      "pursuit",
+      "activity",
+      "recreation",
+      "leisure activity",
+      "personal interest",
+      "favorite activity",
+      "hobby"
+    ],
+    "question": [
+      "What's your favorite pastime?",
+      "What's your main interest these days?",
+      "What's your current pursuit?",
+      "What's your favorite activity to do in your free time?",
+      "What's your favorite form of recreation?",
+      "What's your favorite leisure activity?",
+      "What's your personal interest outside of work?",
+      "What's your favorite activity to do in your free time?",
+      "What's my hobby?"
+    ],
+    "question_paraphrased": "What do I enjoy doing in my free time?",
+    "implicit_question": "What's a good way to stay active and get around town?",
+    "product_recommendation_question": "Any gear I should buy for my hobby?",
+    "target": [
+      "Cycling",
+      "Biking",
+      "Pedaling",
+      "Bicycling",
+      "Riding a bicycle",
+      "Bike touring",
+      "Pedal pushing",
+      "Two-wheel travel",
+      "Bike riding"
+    ]
+  },
+  {
+    "input_attribute": "I love to ride horses.",
+    "attribute_type": [
+      "pastime",
+      "interest",
+      "pursuit",
+      "activity",
+      "recreation",
+      "diversion",
+      "avocation",
+      "leisure activity",
+      "hobby"
+    ],
+    "question": [
+      "What's your favorite pastime?",
+      "What's your main interest outside of work?",
+      "What's your current pursuit?",
+      "What's your favorite activity to do on weekends?",
+      "What's your favorite form of recreation?",
+      "What's your favorite diversion when you need to unwind?",
+      "What's your main avocation outside of work?",
+      "What's your favorite leisure activity?",
+      "What's my hobby?"
+    ],
+    "question_paraphrased": "What do I enjoy doing in my free time?",
+    "implicit_question": "What's a good outdoor activity I could do this weekend?",
+    "product_recommendation_question": "Any gear I should buy for my hobby?",
+    "target": [
+      "Equestrian",
+      "Horseback riding",
+      "Riding",
+      "Equestrianism",
+      "Mounted riding",
+      "Horsemanship",
+      "Saddle riding",
+      "Equitation",
+      "Horse riding"
+    ]
+  },
+  {
+    "input_attribute": "I love watching movies and tv.",
+    "attribute_type": [
+      "pastime",
+      "interest",
+      "pursuit",
+      "activity",
+      "recreation",
+      "leisure activity",
+      "avocation",
+      "diversion",
+      "hobby"
+    ],
+    "question": [
+      "What's your favorite pastime?",
+      "What's your main interest outside of work?",
+      "What's your current pursuit?",
+      "What's your favorite activity to do on weekends?",
+      "What's your favorite form of recreation?",
+      "What's your favorite leisure activity?",
+      "What's your main avocation outside of work?",
+      "What's your favorite diversion when you need to unwind?",
+      "What's my hobby?"
+    ],
+    "question_paraphrased": "What do I enjoy doing in my free time?",
+    "implicit_question": "What should I do tonight to unwind?",
+    "product_recommendation_question": "Any gear I should buy for my hobby?",
+    "target": [
+      "Viewing films and television",
+      "Screen time",
+      "Binge-watching",
+      "Streaming content",
+      "Entertainment consumption",
+      "Media viewing",
+      "Television and cinema",
+      "Watching shows",
+      "Watching movies and TV"
+    ]
+  },
+  {
+    "input_attribute": "I love running and reading.",
+    "attribute_type": [
+      "pastime",
+      "interest",
+      "pursuit",
+      "activity",
+      "recreation",
+      "leisure activity",
+      "personal interest",
+      "favorite activity",
+      "hobby"
+    ],
+    "question": [
+      "What's your favorite pastime?",
+      "What's your main interest outside of work?",
+      "What's your current pursuit?",
+      "What's your favorite activity to do on weekends?",
+      "What's your favorite form of recreation?",
+      "What's your favorite leisure activity?",
+      "What's your personal interest outside of work?",
+      "What's your favorite activity to do in your free time?",
+      "What's my hobby?"
+    ],
+    "question_paraphrased": "What activities do I enjoy doing?",
+    "implicit_question": "How do you think I like to spend my free time?",
+    "product_recommendation_question": "Any gear I should buy for my hobby?",
+    "target": [
+      "Jogging and literature",
+      "Cardio and books",
+      "Exercise and studying",
+      "Running while learning",
+      "Active reading practice",
+      "Fitness and literacy",
+      "Moving and absorbing text",
+      "Physical and mental training",
+      "Running and reading"
+    ]
+  },
+  {
+    "input_attribute": "I also love vintage cars.",
+    "attribute_type": [
+      "pastime",
+      "interest",
+      "pursuit",
+      "activity",
+      "recreation",
+      "leisure activity",
+      "avocation",
+      "diversion",
+      "hobby"
+    ],
+    "question": [
+      "What's your favorite pastime?",
+      "What's your main interest outside of work?",
+      "What's your current pursuit?",
+      "What's your favorite activity to do in your free time?",
+      "What's your favorite form of recreation?",
+      "What's your favorite leisure activity?",
+      "What's your main avocation outside of work?",
+      "What's your favorite diversion when you need to unwind?",
+      "What's my hobby?"
+    ],
+    "question_paraphrased": "What do I enjoy doing in my spare time?",
+    "implicit_question": "What kind of shows or events do you think I'd enjoy attending on weekends?",
+    "product_recommendation_question": "Any gear I should buy for my hobby?",
+    "target": [
+      "Classic automobiles",
+      "Antique vehicles",
+      "Retro cars",
+      "Heritage motors",
+      "Period automobiles",
+      "Collector cars",
+      "Historic vehicles",
+      "Classic motors",
+      "Vintage cars"
+    ]
+  },
+  {
+    "input_attribute": "I collect vintage 50 s decorations.",
+    "attribute_type": [
+      "pastime",
+      "interest",
+      "pursuit",
+      "activity",
+      "recreation",
+      "leisure activity",
+      "avocation",
+      "diversion",
+      "hobby"
+    ],
+    "question": [
+      "What's your favorite pastime?",
+      "What's your main interest these days?",
+      "What's your current pursuit?",
+      "What's your favorite activity to do in your free time?",
+      "What's your favorite form of recreation?",
+      "What's your favorite leisure activity?",
+      "What's your main avocation outside of work?",
+      "What's your favorite diversion when you need to unwind?",
+      "What's my hobby?"
+    ],
+    "question_paraphrased": "What do I enjoy doing in my spare time?",
+    "implicit_question": "What should I look for at the antique shop this weekend?",
+    "product_recommendation_question": "Any gear I should buy for my hobby?",
+    "target": [
+      "Gathering retro fifties ornaments",
+      "Acquiring mid-century d\u00e9cor",
+      "Amassing 1950s collectibles",
+      "Sourcing vintage home accessories",
+      "Curating fifties memorabilia",
+      "Hunting retro decorative items",
+      "Stockpiling mid-century ornaments",
+      "Procuring",
+      "Collecting vintage 1950s decorations"
+    ]
+  },
+  {
+    "input_attribute": "I like to work out.",
+    "attribute_type": [
+      "pastime",
+      "interest",
+      "pursuit",
+      "activity",
+      "recreation",
+      "diversion",
+      "avocation",
+      "leisure activity",
+      "hobby"
+    ],
+    "question": [
+      "What's your favorite pastime?",
+      "What's your main interest these days?",
+      "What's your current pursuit?",
+      "What's your favorite activity to do on weekends?",
+      "What's your favorite form of recreation?",
+      "What's your favorite diversion when you need to unwind?",
+      "What's your main avocation outside of work?",
+      "What's your favorite leisure activity?",
+      "What's my hobby?"
+    ],
+    "question_paraphrased": "What do I enjoy doing in my free time?",
+    "implicit_question": "What's a good way to stay active and healthy?",
+    "product_recommendation_question": "Any gear I should buy for my hobby?",
+    "target": [
+      "Exercising",
+      "Training",
+      "Fitness routine",
+      "Physical activity",
+      "Getting in shape",
+      "Staying fit",
+      "Gym session",
+      "Workout",
+      "Working out"
+    ]
+  },
+  {
+    "input_attribute": "My parents are living in bora bora.",
+    "attribute_type": [
+      "household",
+      "relatives",
+      "kin",
+      "clan",
+      "lineage",
+      "ancestry",
+      "bloodline",
+      "kinship",
+      "family"
+    ],
+    "question": [
+      "How many people are in your household?",
+      "Do you have any relatives living nearby?",
+      "Do you have any kin living nearby?",
+      "What clan are you from?",
+      "What's your family lineage like?",
+      "What's your ancestry?",
+      "What's your bloodline like?",
+      "What's your kinship with the people in your neighborhood?",
+      "Where is my family?"
+    ],
+    "question_paraphrased": "Where do my family members live?",
+    "implicit_question": "I'm thinking about planning a visit - any travel suggestions?",
+    "product_recommendation_question": "What should I get for my family?",
+    "target": [
+      "Bora Bora mothers and fathers",
+      "Island parents",
+      "Polynesian parents",
+      "French Polynesian guardians",
+      "Tahitian caregivers",
+      "Pacific island families",
+      "Bora Bora families",
+      "Local island parents",
+      "Parents in Bora Bora"
+    ]
+  },
+  {
+    "input_attribute": "My family lives down the street from me.",
+    "attribute_type": [
+      "household",
+      "relatives",
+      "kin",
+      "clan",
+      "lineage",
+      "bloodline",
+      "family unit",
+      "kinship",
+      "family"
+    ],
+    "question": [
+      "How many people are in your household?",
+      "Do you have any relatives living nearby?",
+      "Do you have any kin living nearby?",
+      "What clan are you from?",
+      "What's your family lineage like?",
+      "What's your bloodline like?",
+      "What does your family unit look like?",
+      "What's your kinship with the people in your neighborhood?",
+      "Where does my family live?"
+    ],
+    "question_paraphrased": "How close are my relatives to me?",
+    "implicit_question": "How often do you think I see my relatives?",
+    "product_recommendation_question": "Any gift ideas for my family?",
+    "target": [
+      "Family resides locally",
+      "Relatives live close",
+      "Kin nearby",
+      "Family in vicinity",
+      "Close family proximity",
+      "Local family presence",
+      "Family lives close-by",
+      "Nearby relatives",
+      "Family lives nearby"
+    ]
+  },
+  {
+    "input_attribute": "I do not want children.",
+    "attribute_type": [
+      "household",
+      "relatives",
+      "kin",
+      "lineage",
+      "clan",
+      "ancestry",
+      "bloodline",
+      "kinship",
+      "family"
+    ],
+    "question": [
+      "How many people are in your household?",
+      "Do you have any relatives living nearby?",
+      "Do you have any kin living nearby?",
+      "What's your family lineage like?",
+      "What clan are you from?",
+      "What's your ancestry?",
+      "What's your bloodline like?",
+      "What's your kinship with the people in your neighborhood?",
+      "What's my family situation?"
+    ],
+    "question_paraphrased": "How do I feel about my family plans?",
+    "implicit_question": "What are your thoughts on long-term life planning?",
+    "product_recommendation_question": "Any products that would suit my family lifestyle?",
+    "target": [
+      "Childless by choice",
+      "Without children",
+      "Non-parent",
+      "Kid-free",
+      "Offspring-free",
+      "Child-optional",
+      "Voluntarily childless",
+      "Parenthood-free",
+      "Childfree"
+    ]
+  },
+  {
+    "input_attribute": "I have a husband who i love very much.",
+    "attribute_type": [
+      "household",
+      "relatives",
+      "kin",
+      "clan",
+      "lineage",
+      "bloodline",
+      "family unit",
+      "kinship",
+      "family"
+    ],
+    "question": [
+      "How many people are in your household?",
+      "Do you have any relatives living nearby?",
+      "Do you have any kin living nearby?",
+      "What clan are you from?",
+      "What's your family lineage like?",
+      "What's your bloodline like?",
+      "What does your family unit look like?",
+      "What's your kinship with the people in your neighborhood?",
+      "What's my family like?"
+    ],
+    "question_paraphrased": "Who are the important people in my household?",
+    "implicit_question": "What should I plan for a romantic evening?",
+    "product_recommendation_question": "Any gift ideas I should consider for my family?",
+    "target": [
+      "Happily married",
+      "Wedded to devoted spouse",
+      "Blissfully wed",
+      "Married to caring partner",
+      "In loving marriage",
+      "Wedded with adoring husband",
+      "Married to affectionate mate",
+      "Blissful matrimony",
+      "Married with loving husband"
+    ]
+  },
+  {
+    "input_attribute": "I am married and have two kids of my own.",
+    "attribute_type": [
+      "household",
+      "relatives",
+      "kin",
+      "lineage",
+      "clan",
+      "ancestry",
+      "bloodline",
+      "kinship",
+      "family"
+    ],
+    "question": [
+      "How many people are in your household?",
+      "Do you have any relatives living nearby?",
+      "Do you have any kin living nearby?",
+      "What's your family lineage like?",
+      "What clan are you from?",
+      "What's your ancestry?",
+      "What's your bloodline like?",
+      "What's your kinship with the people in your neighborhood?",
+      "What's my family like?"
+    ],
+    "question_paraphrased": "Who are the people in my household?",
+    "implicit_question": "What are some good activities for everyone at home?",
+    "product_recommendation_question": "Any products I should buy for my family?",
+    "target": [
+      "Family of four",
+      "Wedded, two kids",
+      "Spouse and two offspring",
+      "Married couple, two children",
+      "Two-child household",
+      "Partnered with two dependents",
+      "Wed with twin progeny",
+      "Committed relationship, two minors",
+      "Married with two children"
+    ]
+  },
+  {
+    "input_attribute": "I have two sons.",
+    "attribute_type": [
+      "household",
+      "relatives",
+      "kin",
+      "lineage",
+      "clan",
+      "ancestry",
+      "bloodline",
+      "kinship",
+      "family"
+    ],
+    "question": [
+      "How many people are in your household?",
+      "Do you have any relatives living nearby?",
+      "Do you have any kin living nearby?",
+      "What's your family lineage like?",
+      "What clan are you from?",
+      "What's your ancestry?",
+      "What's your bloodline like?",
+      "What's your kinship with the people in your neighborhood?",
+      "What's my family like?"
+    ],
+    "question_paraphrased": "Who are the people in my household?",
+    "implicit_question": "What keeps me busy at home these days?",
+    "product_recommendation_question": "Any products I should consider for my family?",
+    "target": [
+      "A pair of boys",
+      "Twin males",
+      "Two male offspring",
+      "Dual heirs",
+      "Brother duo",
+      "Two lads",
+      "Male siblings",
+      "Son pair",
+      "Two sons"
+    ]
+  },
+  {
+    "input_attribute": "I have a father and a brother.",
+    "attribute_type": [
+      "household",
+      "relatives",
+      "kin",
+      "lineage",
+      "clan",
+      "ancestry",
+      "bloodline",
+      "kinship",
+      "family"
+    ],
+    "question": [
+      "How many people are in your household?",
+      "Do you have any relatives living nearby?",
+      "Do you have any kin living nearby?",
+      "What's your family lineage like?",
+      "What clan are you from?",
+      "What's your ancestry?",
+      "What's your bloodline like?",
+      "What's your kinship with the people in your neighborhood?",
+      "What's my family like?"
+    ],
+    "question_paraphrased": "Who are the members of my family?",
+    "implicit_question": "Who should I invite to the family dinner this weekend?",
+    "product_recommendation_question": "Any gift ideas I should consider for my family?",
+    "target": [
+      "Has male relatives",
+      "Father and brother present",
+      "Two male family members",
+      "Male family connections",
+      "Paternal and fraternal ties",
+      "Father-brother relationship exists",
+      "Male kinship bonds",
+      "Dual male lineage",
+      "Has father and brother"
+    ]
+  },
+  {
+    "input_attribute": "My parents did not want me.",
+    "attribute_type": [
+      "household",
+      "relatives",
+      "kin",
+      "clan",
+      "lineage",
+      "ancestry",
+      "bloodline",
+      "kinship",
+      "family"
+    ],
+    "question": [
+      "How many people are in your household?",
+      "Do you have any relatives living nearby?",
+      "Do you have any kin living nearby?",
+      "What clan are you from?",
+      "What's your family lineage like?",
+      "What's your ancestry?",
+      "What's your bloodline like?",
+      "What's your kinship with the people in your neighborhood?",
+      "What's my family situation?"
+    ],
+    "question_paraphrased": "How would you describe my family background?",
+    "implicit_question": "Do you think childhood experiences shape who we become as adults?",
+    "product_recommendation_question": "Any books or resources you'd recommend for family-related challenges?",
+    "target": [
+      "Rejected by family",
+      "Parental rejection",
+      "Unloved child",
+      "Abandoned offspring",
+      "Disowned by parents",
+      "Parental abandonment",
+      "Cast off",
+      "Forsaken by family",
+      "Unwanted by parents"
+    ]
+  },
+  {
+    "input_attribute": "I was raised by my uncle and aunt.",
+    "attribute_type": [
+      "household",
+      "relatives",
+      "kin",
+      "lineage",
+      "clan",
+      "ancestry",
+      "bloodline",
+      "kinship",
+      "family"
+    ],
+    "question": [
+      "How many people are in your household?",
+      "Do you have any relatives living nearby?",
+      "Do you have any kin living nearby?",
+      "What's your family lineage like?",
+      "What clan are you from?",
+      "What's your ancestry?",
+      "What's your bloodline like?",
+      "What's your kinship with the people in your neighborhood?",
+      "What's my family situation?"
+    ],
+    "question_paraphrased": "Who are the family members that raised me?",
+    "implicit_question": "Who should I call to catch up with the people who raised me?",
+    "product_recommendation_question": "Any gift ideas for my family members?",
+    "target": [
+      "Brought up by relatives",
+      "Reared by extended family",
+      "Fostered by aunt/uncle",
+      "Raised by guardians",
+      "Cared for by family",
+      "Nurtured by relatives",
+      "Brought up by kin",
+      "Raised by surrogate parents",
+      "Raised by uncle and aunt"
+    ]
+  },
+  {
+    "input_attribute": "I have no siblings.",
+    "attribute_type": [
+      "household",
+      "relatives",
+      "kin",
+      "lineage",
+      "clan",
+      "ancestry",
+      "bloodline",
+      "kinship",
+      "family"
+    ],
+    "question": [
+      "How many people are in your household?",
+      "Do you have any relatives living nearby?",
+      "Do you have any kin living nearby?",
+      "What's your family lineage like?",
+      "What clan are you from?",
+      "What's your ancestry?",
+      "What's your bloodline like?",
+      "What's your kinship with the people in your neighborhood?",
+      "What's my family like?"
+    ],
+    "question_paraphrased": "How would you describe my family structure?",
+    "implicit_question": "What was it like growing up in your household?",
+    "product_recommendation_question": "Any products that would be good for my family situation?",
+    "target": [
+      "Sole offspring",
+      "Single child",
+      "Lone child",
+      "Only son/daughter",
+      "Solitary child",
+      "One child",
+      "Sole child",
+      "Only progeny",
+      "Only child"
+    ]
+  },
+  {
+    "input_attribute": "I run a dog obedience school.",
+    "attribute_type": [
+      "occupation",
+      "career",
+      "job",
+      "vocation",
+      "trade",
+      "field",
+      "work",
+      "calling",
+      "profession"
+    ],
+    "question": [
+      "What's your occupation?",
+      "What's your career?",
+      "What's your job?",
+      "What's your vocation?",
+      "What's your trade?",
+      "What's your field?",
+      "What kind of work do you do?",
+      "What do you feel is your calling in life?",
+      "What's my profession?"
+    ],
+    "question_paraphrased": "What do I do for work?",
+    "implicit_question": "What keeps me busy during the day?",
+    "product_recommendation_question": "Any equipment I should invest in for my profession?",
+    "target": [
+      "Canine training instructor",
+      "Dog trainer",
+      "Pet obedience coach",
+      "Animal behavior specialist",
+      "Dog school proprietor",
+      "Canine education provider",
+      "Pet training facility owner",
+      "Dog discipline teacher",
+      "Dog obedience school owner"
+    ]
+  },
+  {
+    "input_attribute": "I work as a nurses aide in a nursing home.",
+    "attribute_type": [
+      "occupation",
+      "career",
+      "job",
+      "trade",
+      "vocation",
+      "field",
+      "work",
+      "calling",
+      "profession"
+    ],
+    "question": [
+      "What's your occupation?",
+      "What's your career?",
+      "What's your job?",
+      "What's your trade?",
+      "What's your vocation?",
+      "What's your field?",
+      "What kind of work do you do?",
+      "What do you feel is your calling in life?",
+      "What's my profession?"
+    ],
+    "question_paraphrased": "What do I do for work?",
+    "implicit_question": "What kind of day did you have at work today?",
+    "product_recommendation_question": "Any equipment I should buy for my profession?",
+    "target": [
+      "Nursing assistant",
+      "Care aide",
+      "Healthcare attendant",
+      "Resident care assistant",
+      "Certified nursing assistant",
+      "Patient care technician",
+      "Long-term care aide",
+      "Nursing home attendant",
+      "Nurses aide in nursing home"
+    ]
+  },
+  {
+    "input_attribute": "I work in labor and delivery.",
+    "attribute_type": [
+      "occupation",
+      "career",
+      "job",
+      "vocation",
+      "trade",
+      "field",
+      "work",
+      "calling",
+      "profession"
+    ],
+    "question": [
+      "What's your occupation?",
+      "What's your career?",
+      "What's your job?",
+      "What's your vocation?",
+      "What's your trade?",
+      "What's your field?",
+      "What kind of work do you do?",
+      "What do you feel is your calling in life?",
+      "What's my profession?"
+    ],
+    "question_paraphrased": "What do I do for work?",
+    "implicit_question": "I had such a long shift today, barely got any sleep between all the calls",
+    "product_recommendation_question": "Any equipment I should get for my profession?",
+    "target": [
+      "Obstetric nurse",
+      "Delivery room staff",
+      "Birth attendant",
+      "Maternity ward nurse",
+      "Childbirth assistant",
+      "Delivery nurse",
+      "Labor nurse",
+      "Birthing specialist",
+      "Labor and delivery worker"
+    ]
+  },
+  {
+    "input_attribute": "I work as an attorney.",
+    "attribute_type": [
+      "occupation",
+      "career",
+      "job",
+      "vocation",
+      "trade",
+      "field",
+      "work",
+      "calling",
+      "profession"
+    ],
+    "question": [
+      "What's your occupation?",
+      "What's your career?",
+      "What's your job?",
+      "What's your vocation?",
+      "What's your trade?",
+      "What's your field?",
+      "What kind of work do you do?",
+      "What do you feel is your true calling in life?",
+      "What's my profession?"
+    ],
+    "question_paraphrased": "What do I do for work?",
+    "implicit_question": "What kind of work keeps me busy during the week?",
+    "product_recommendation_question": "Any tools or supplies I should get for my profession?",
+    "target": [
+      "Lawyer",
+      "Counsel",
+      "Legal representative",
+      "Advocate",
+      "Barrister",
+      "Solicitor",
+      "Legal counsel",
+      "Counselor",
+      "Attorney"
+    ]
+  },
+  {
+    "input_attribute": "I am a pediatrician.",
+    "attribute_type": [
+      "occupation",
+      "career",
+      "job",
+      "vocation",
+      "trade",
+      "field",
+      "work",
+      "calling",
+      "profession"
+    ],
+    "question": [
+      "What's your occupation?",
+      "What's your career?",
+      "What's your job?",
+      "What's your vocation?",
+      "What's your trade?",
+      "What's your field?",
+      "What kind of work do you do?",
+      "What do you feel is your calling in life?",
+      "What's my profession?"
+    ],
+    "question_paraphrased": "What do I do for work?",
+    "implicit_question": "I had a really busy day at the office today with lots of young patients.",
+    "product_recommendation_question": "Any equipment I should buy for my profession?",
+    "target": [
+      "Children's doctor",
+      "Kid's physician",
+      "Child specialist",
+      "Youth doctor",
+      "Pediatric physician",
+      "Baby doctor",
+      "Child healthcare provider",
+      "Juvenile medicine doctor",
+      "Pediatrician"
+    ]
+  },
+  {
+    "input_attribute": "I am a student.",
+    "attribute_type": [
+      "occupation",
+      "career",
+      "job",
+      "vocation",
+      "trade",
+      "field",
+      "work",
+      "calling",
+      "profession"
+    ],
+    "question": [
+      "What's your occupation?",
+      "What's your career?",
+      "What's your job?",
+      "What's your vocation?",
+      "What's your trade?",
+      "What's your field?",
+      "What kind of work do you do?",
+      "What do you feel is your calling in life?",
+      "What's my profession?"
+    ],
+    "question_paraphrased": "What do I do for work or as my main occupation?",
+    "implicit_question": "What keeps me busy during the day?",
+    "product_recommendation_question": "Any tools or supplies I should get for my profession?",
+    "target": [
+      "Learner",
+      "Pupil",
+      "Scholar",
+      "Apprentice",
+      "Trainee",
+      "Disciple",
+      "Academic",
+      "Undergraduate",
+      "Student"
+    ]
+  },
+  {
+    "input_attribute": "I write short stories for a living.",
+    "attribute_type": [
+      "occupation",
+      "career",
+      "job",
+      "vocation",
+      "trade",
+      "field",
+      "work",
+      "calling",
+      "profession"
+    ],
+    "question": [
+      "What's your occupation?",
+      "What's your career?",
+      "What's your job?",
+      "What's your vocation?",
+      "What's your trade?",
+      "What's your field?",
+      "What kind of work do you do?",
+      "What do you feel is your calling in life?",
+      "What's my profession?"
+    ],
+    "question_paraphrased": "What do I do for work?",
+    "implicit_question": "What keeps me busy during the day?",
+    "product_recommendation_question": "Any tools I should invest in for my profession?",
+    "target": [
+      "Storyteller",
+      "Novelist",
+      "Fiction writer",
+      "Tale author",
+      "Short fiction author",
+      "Narrative writer",
+      "Story author",
+      "Fictioneer",
+      "Short story writer"
+    ]
+  },
+  {
+    "input_attribute": "I work as an accountant.",
+    "attribute_type": [
+      "occupation",
+      "career",
+      "job",
+      "vocation",
+      "trade",
+      "field",
+      "work",
+      "calling",
+      "profession"
+    ],
+    "question": [
+      "What's your occupation?",
+      "What's your career?",
+      "What's your job?",
+      "What's your vocation?",
+      "What's your trade?",
+      "What's your field?",
+      "What kind of work do you do?",
+      "What do you feel is your calling in life?",
+      "What's my profession?"
+    ],
+    "question_paraphrased": "What do I do for work?",
+    "implicit_question": "What keeps me busy during the day?",
+    "product_recommendation_question": "Any tools I should get for my profession?",
+    "target": [
+      "Bookkeeper",
+      "Financial analyst",
+      "CPA",
+      "Auditor",
+      "Tax preparer",
+      "Financial advisor",
+      "Comptroller",
+      "Numbers specialist",
+      "Accountant"
+    ]
+  },
+  {
+    "input_attribute": "I am a handyman.",
+    "attribute_type": [
+      "occupation",
+      "career",
+      "job",
+      "trade",
+      "vocation",
+      "field",
+      "work",
+      "calling",
+      "profession"
+    ],
+    "question": [
+      "What's your occupation?",
+      "What's your career?",
+      "What's your job?",
+      "What's your trade?",
+      "What's your vocation?",
+      "What's your field?",
+      "What kind of work do you do?",
+      "What do you feel is your calling in life?",
+      "What's my profession?"
+    ],
+    "question_paraphrased": "What do I do for work?",
+    "implicit_question": "What kind of work keeps me busy during the day?",
+    "product_recommendation_question": "Any tools I should buy for my profession?",
+    "target": [
+      "Maintenance worker",
+      "Repair person",
+      "Fix-it specialist",
+      "All-around helper",
+      "General contractor",
+      "Skilled laborer",
+      "Home repair expert",
+      "Jack-of-all-trades",
+      "Handyman"
+    ]
+  },
+  {
+    "input_attribute": "I work for a company that rents properties.",
+    "attribute_type": [
+      "occupation",
+      "career",
+      "job",
+      "trade",
+      "vocation",
+      "field",
+      "work",
+      "calling",
+      "profession"
+    ],
+    "question": [
+      "What's your occupation?",
+      "What's your career?",
+      "What's your job?",
+      "What's your trade?",
+      "What's your vocation?",
+      "What field are you working in?",
+      "What kind of work do you do?",
+      "What do you feel is your calling in life?",
+      "What's my profession?"
+    ],
+    "question_paraphrased": "What do I do for work?",
+    "implicit_question": "What kind of work keeps me busy during the day?",
+    "product_recommendation_question": "Any tools or equipment I should consider for my profession?",
+    "target": [
+      "Rental market",
+      "Leasing sector",
+      "Property letting business",
+      "Rental housing industry",
+      "Real estate rentals",
+      "Letting market",
+      "Tenancy sector",
+      "Rental property market",
+      "Property rental industry"
+    ]
+  },
+  {
+    "input_attribute": "I have a big sweet tooth.",
+    "attribute_type": [
+      "dietary preference",
+      "culinary taste",
+      "food choice",
+      "eating habit",
+      "nutritional preference",
+      "meal preference",
+      "cuisine preference",
+      "dietary inclination",
+      "food preference"
+    ],
+    "question": [
+      "What's your dietary preference?",
+      "What's your culinary taste like?",
+      "What's your food choice for dinner tonight?",
+      "What's your eating habit like?",
+      "What's your nutritional preference when it comes to meal planning?",
+      "What's your meal preference for tonight?",
+      "What's your cuisine preference when dining out?",
+      "What's your dietary inclination when it comes to meal planning?",
+      "What's my food preference?"
+    ],
+    "question_paraphrased": "What kind of foods do I prefer?",
+    "implicit_question": "What should I order for dessert?",
+    "product_recommendation_question": "Any treats I should buy for my food preference?",
+    "target": [
+      "Desserts",
+      "Sugary treats",
+      "Confections",
+      "Sweet treats",
+      "Candy",
+      "Sweets",
+      "Sugary foods",
+      "Confectionery",
+      "Sweet foods"
+    ]
+  },
+  {
+    "input_attribute": "My favorite food is ice cream.",
+    "attribute_type": [
+      "dietary preference",
+      "culinary taste",
+      "food choice",
+      "eating habit",
+      "nutritional preference",
+      "meal preference",
+      "cuisine preference",
+      "dietary inclination",
+      "food preference"
+    ],
+    "question": [
+      "What's your dietary preference?",
+      "What's your culinary taste like?",
+      "What's your food choice for dinner tonight?",
+      "What's your eating habit like?",
+      "What's your nutritional preference when it comes to meal planning?",
+      "What's your meal preference for tonight?",
+      "What's your cuisine preference when dining out?",
+      "What's your dietary inclination when it comes to meal planning?",
+      "What's my food preference?"
+    ],
+    "question_paraphrased": "What kind of food do I like best?",
+    "implicit_question": "What should I have for dessert tonight?",
+    "product_recommendation_question": "Any products I should buy for my food preference?",
+    "target": [
+      "Frozen dessert",
+      "Gelato",
+      "Sorbet",
+      "Frozen treat",
+      "Cold treat",
+      "Dairy dessert",
+      "Frozen custard",
+      "Soft serve",
+      "Ice cream"
+    ]
+  },
+  {
+    "input_attribute": "I eat granola for breakfast every day.",
+    "attribute_type": [
+      "dietary preference",
+      "culinary taste",
+      "food choice",
+      "eating preference",
+      "taste preference",
+      "dietary habit",
+      "food inclination",
+      "culinary preference",
+      "food preference"
+    ],
+    "question": [
+      "What's your dietary preference?",
+      "What's your culinary taste like?",
+      "What's your food choice for dinner tonight?",
+      "What's your eating preference?",
+      "What's your taste preference when it comes to coffee?",
+      "What's your main dietary habit?",
+      "What's your food inclination when you're trying to eat healthier?",
+      "What's your culinary preference when it comes to dining out?",
+      "What's my food preference?"
+    ],
+    "question_paraphrased": "What do I like to eat?",
+    "implicit_question": "What should I have for my morning meal?",
+    "product_recommendation_question": "Any products I should buy for my food preference?",
+    "target": [
+      "Morning granola",
+      "Breakfast granola",
+      "Granola meal",
+      "Morning cereal",
+      "Breakfast cereal mix",
+      "Granola bowl",
+      "Morning muesli",
+      "Breakfast clusters",
+      "Granola for breakfast"
+    ]
+  },
+  {
+    "input_attribute": "My favourite food is sushi.",
+    "attribute_type": [
+      "dietary choice",
+      "culinary taste",
+      "eating habit",
+      "food inclination",
+      "nutritional preference",
+      "meal preference",
+      "dietary pattern",
+      "taste preference",
+      "food preference"
+    ],
+    "question": [
+      "What's your dietary choice?",
+      "What's your culinary taste like?",
+      "What's your eating habit like?",
+      "What's your food inclination when you're trying to eat healthier?",
+      "What's your nutritional preference when it comes to meal planning?",
+      "What's your meal preference for tonight?",
+      "What's your typical dietary pattern like?",
+      "What's your taste preference when it comes to coffee?",
+      "What's my food preference?"
+    ],
+    "question_paraphrased": "What kind of food do I like best?",
+    "implicit_question": "What should I order for dinner tonight?",
+    "product_recommendation_question": "Any kitchen tools I should buy for my food preference?",
+    "target": [
+      "Japanese rice rolls",
+      "Raw fish cuisine",
+      "Vinegared rice dish",
+      "Nigiri",
+      "Maki",
+      "Sashimi rolls",
+      "Japanese delicacy",
+      "Rice and fish",
+      "Sushi"
+    ]
+  },
+  {
+    "input_attribute": "I like to eat a lot of meat.",
+    "attribute_type": [
+      "dietary preference",
+      "culinary taste",
+      "food choice",
+      "eating habit",
+      "nutritional preference",
+      "meal preference",
+      "cuisine preference",
+      "dietary inclination",
+      "food preference"
+    ],
+    "question": [
+      "What's your dietary preference?",
+      "What's your culinary taste like?",
+      "What's your food choice for dinner tonight?",
+      "What's your eating habit like?",
+      "What's your nutritional preference when it comes to meal planning?",
+      "What's your meal preference for tonight?",
+      "What's your cuisine preference when dining out?",
+      "What's your dietary inclination when it comes to meal planning?",
+      "What's my food preference?"
+    ],
+    "question_paraphrased": "What kind of foods do I prefer to eat?",
+    "implicit_question": "What should I make for dinner tonight?",
+    "product_recommendation_question": "Any products I should buy for my food preference?",
+    "target": [
+      "Carnivore",
+      "Meat enthusiast",
+      "Protein devotee",
+      "Flesh eater",
+      "Meat aficionado",
+      "Carnivorous person",
+      "Meat fanatic",
+      "Red meat fan",
+      "Meat lover"
+    ]
+  },
+  {
+    "input_attribute": "My favorite food is pizza.",
+    "attribute_type": [
+      "dietary preference",
+      "culinary taste",
+      "food choice",
+      "eating habit",
+      "nutritional preference",
+      "meal preference",
+      "cuisine preference",
+      "dietary inclination",
+      "food preference"
+    ],
+    "question": [
+      "What's your dietary preference?",
+      "What's your culinary taste like?",
+      "What's your food choice for dinner tonight?",
+      "What's your eating habit like?",
+      "What's your nutritional preference when it comes to meal planning?",
+      "What's your meal preference for tonight?",
+      "What's your cuisine preference when dining out?",
+      "What's your dietary inclination when it comes to meal planning?",
+      "What's my food preference?"
+    ],
+    "question_paraphrased": "What kind of food do I like best?",
+    "implicit_question": "What should I order for dinner tonight?",
+    "product_recommendation_question": "Any kitchen items I should buy for my food preference?",
+    "target": [
+      "Pie",
+      "Flatbread",
+      "Italian pie",
+      "Cheesy flatbread",
+      "Round bread",
+      "Baked dough disc",
+      "Topped crust",
+      "Circular bread",
+      "Pizza"
+    ]
+  },
+  {
+    "input_attribute": "I do not like chips.",
+    "attribute_type": [
+      "dietary preference",
+      "culinary taste",
+      "food choice",
+      "eating habit",
+      "nutritional preference",
+      "meal preference",
+      "cuisine preference",
+      "dietary inclination",
+      "food preference"
+    ],
+    "question": [
+      "What's your dietary preference?",
+      "What's your culinary taste like?",
+      "What's your food choice for dinner tonight?",
+      "What's your eating habit like?",
+      "What's your nutritional preference when it comes to meal planning?",
+      "What's your meal preference for tonight?",
+      "What's your cuisine preference when dining out?",
+      "What's your dietary inclination when it comes to meal planning?",
+      "What's my food preference?"
+    ],
+    "question_paraphrased": "What are my eating preferences?",
+    "implicit_question": "What should I bring to the party for snacking?",
+    "product_recommendation_question": "Any snacks you'd recommend based on my food preference?",
+    "target": [
+      "Hates chips",
+      "Avoids chips",
+      "Chips aversion",
+      "Anti-chips",
+      "Chips repulsion",
+      "Detests chips",
+      "Chips antipathy",
+      "Abhors chips",
+      "Dislikes chips"
+    ]
+  },
+  {
+    "input_attribute": "My favorite food is cheese pizza.",
+    "attribute_type": [
+      "dietary preference",
+      "culinary taste",
+      "food choice",
+      "eating habit",
+      "nutritional preference",
+      "meal preference",
+      "cuisine preference",
+      "dietary inclination",
+      "food preference"
+    ],
+    "question": [
+      "What's your dietary preference?",
+      "What's your culinary taste like?",
+      "What's your food choice for dinner tonight?",
+      "What's your eating habit like?",
+      "What's your nutritional preference when it comes to meal planning?",
+      "What's your meal preference for tonight?",
+      "What's your cuisine preference when dining out?",
+      "What's your dietary inclination when it comes to meal planning?",
+      "What's my food preference?"
+    ],
+    "question_paraphrased": "What kind of food do I like best?",
+    "implicit_question": "What should I order for dinner tonight?",
+    "product_recommendation_question": "Any kitchen items I should buy for my food preference?",
+    "target": [
+      "Plain pizza",
+      "Margherita",
+      "Cheese pie",
+      "Basic pizza",
+      "Simple pizza",
+      "Classic pizza",
+      "Cheese flatbread",
+      "Traditional pizza",
+      "Cheese pizza"
+    ]
+  },
+  {
+    "input_attribute": "I love onions.",
+    "attribute_type": [
+      "dietary preference",
+      "culinary taste",
+      "food choice",
+      "eating habit",
+      "nutritional preference",
+      "meal preference",
+      "cuisine preference",
+      "dietary inclination",
+      "food preference"
+    ],
+    "question": [
+      "What's your dietary preference?",
+      "What's your culinary taste like?",
+      "What's your food choice for dinner tonight?",
+      "What's your eating habit like?",
+      "What's your nutritional preference when it comes to meal planning?",
+      "What's your meal preference for tonight?",
+      "What's your cuisine preference when dining out?",
+      "What's your dietary inclination when it comes to meal planning?",
+      "What's my food preference?"
+    ],
+    "question_paraphrased": "What kind of food do I like?",
+    "implicit_question": "What should I cook for dinner tonight?",
+    "product_recommendation_question": "Any ingredients I should buy for my food preference?",
+    "target": [
+      "Bulb vegetables",
+      "Alliums",
+      "Yellow onions",
+      "Cooking onions",
+      "Scallions",
+      "Shallots",
+      "Pearl onions",
+      "Onion bulbs",
+      "Onions"
+    ]
+  },
+  {
+    "input_attribute": "I like to eat muffins.",
+    "attribute_type": [
+      "dietary preference",
+      "culinary taste",
+      "food choice",
+      "eating habit",
+      "nutritional preference",
+      "meal preference",
+      "cuisine preference",
+      "dietary inclination",
+      "food preference"
+    ],
+    "question": [
+      "What's your dietary preference?",
+      "What's your culinary taste like?",
+      "What's your food choice for dinner tonight?",
+      "What's your eating habit like?",
+      "What's your nutritional preference when it comes to meal planning?",
+      "What's your meal preference for tonight?",
+      "What's your cuisine preference when dining out?",
+      "What's your dietary inclination when it comes to meal planning?",
+      "What's my food preference?"
+    ],
+    "question_paraphrased": "What kind of food do I enjoy eating?",
+    "implicit_question": "What should I have for breakfast tomorrow?",
+    "product_recommendation_question": "Any products I should buy for my food preference?",
+    "target": [
+      "Cupcakes",
+      "Quick breads",
+      "Breakfast cakes",
+      "Individual cakes",
+      "Baked goods",
+      "Sweet rolls",
+      "Mini loaves",
+      "Bakery treats",
+      "Muffins"
+    ]
+  },
+  {
+    "input_attribute": "I grew up in north dakota.",
+    "attribute_type": [
+      "place",
+      "position",
+      "whereabouts",
+      "site",
+      "address",
+      "locale",
+      "spot",
+      "geographical area",
+      "location"
+    ],
+    "question": [
+      "What's your favorite place to visit?",
+      "What's your position on this issue?",
+      "What are your whereabouts right now?",
+      "What's your site about?",
+      "What's your current address?",
+      "What's your locale like?",
+      "What's your favorite spot to relax?",
+      "What geographical area are you from?",
+      "What's my location?"
+    ],
+    "question_paraphrased": "Where am I from?",
+    "implicit_question": "What kind of weather am I used to dealing with?",
+    "product_recommendation_question": "Any products that would remind me of my location?",
+    "target": [
+      "Peace Garden State",
+      "Flickertail State",
+      "Roughrider State",
+      "ND",
+      "The Dakota North",
+      "Northern Dakota",
+      "Upper Dakota",
+      "Nodak",
+      "North Dakota"
+    ]
+  },
+  {
+    "input_attribute": "I am native american and live in oklahoma.",
+    "attribute_type": [
+      "place",
+      "position",
+      "whereabouts",
+      "site",
+      "address",
+      "locale",
+      "geographical area",
+      "coordinates",
+      "location"
+    ],
+    "question": [
+      "What's your favorite place to visit?",
+      "What's your position on this issue?",
+      "What are your whereabouts right now?",
+      "What's your site about?",
+      "What's your current address?",
+      "What's your locale like?",
+      "What geographical area are you from?",
+      "What are your coordinates right now?",
+      "What's my location?"
+    ],
+    "question_paraphrased": "Where do I live?",
+    "implicit_question": "What's the weather like where I am?",
+    "product_recommendation_question": "Any products I should buy for my location?",
+    "target": [
+      "Sooner State",
+      "OK",
+      "Land of the Red People",
+      "Boomer State",
+      "Native America",
+      "Tornado Alley State",
+      "Oil Patch State",
+      "Cowboy Country",
+      "Oklahoma"
+    ]
+  },
+  {
+    "input_attribute": "I live in ohio.",
+    "attribute_type": [
+      "place",
+      "position",
+      "whereabouts",
+      "site",
+      "address",
+      "locale",
+      "vicinity",
+      "coordinates",
+      "location"
+    ],
+    "question": [
+      "What's your favorite place to visit?",
+      "What's your position on this issue?",
+      "What are your whereabouts right now?",
+      "What's your site about?",
+      "What's your current address?",
+      "What's your locale like?",
+      "What's happening in your vicinity right now?",
+      "What are your coordinates right now?",
+      "What's my location?"
+    ],
+    "question_paraphrased": "Where do I live?",
+    "implicit_question": "What's the weather like where I am?",
+    "product_recommendation_question": "Any products I should buy for my location?",
+    "target": [
+      "The Buckeye State",
+      "Buckeye State",
+      "OH",
+      "Midwest state",
+      "Great Lakes state",
+      "Heart of it all",
+      "Birthplace of aviation",
+      "Mother of presidents",
+      "Ohio"
+    ]
+  },
+  {
+    "input_attribute": "I grew up on a large farm.",
+    "attribute_type": [
+      "place",
+      "position",
+      "whereabouts",
+      "site",
+      "address",
+      "locale",
+      "spot",
+      "geographical area",
+      "location"
+    ],
+    "question": [
+      "What's your favorite place to relax?",
+      "What's your position on this issue?",
+      "What are your whereabouts right now?",
+      "What's your site about?",
+      "What's your current address?",
+      "What's your locale like?",
+      "What's your favorite spot to relax?",
+      "What geographical area are you from?",
+      "What's my location?"
+    ],
+    "question_paraphrased": "Where am I from?",
+    "implicit_question": "What was it like where you spent your childhood?",
+    "product_recommendation_question": "Any products that would remind me of where I grew up?",
+    "target": [
+      "Ranch",
+      "Plantation",
+      "Estate",
+      "Agricultural operation",
+      "Farming enterprise",
+      "Homestead",
+      "Agribusiness",
+      "Commercial farm",
+      "Large farm"
+    ]
+  },
+  {
+    "input_attribute": "I live in a very small town.",
+    "attribute_type": [
+      "place",
+      "position",
+      "whereabouts",
+      "site",
+      "address",
+      "locale",
+      "spot",
+      "geographical area",
+      "location"
+    ],
+    "question": [
+      "What's your favorite place to visit?",
+      "What's your position on this issue?",
+      "What are your whereabouts right now?",
+      "What's your site about?",
+      "What's your current address?",
+      "What's your locale like?",
+      "What's your favorite spot to relax?",
+      "What geographical area are you from?",
+      "What's my location?"
+    ],
+    "question_paraphrased": "Where do I live?",
+    "implicit_question": "What's it like where you're from?",
+    "product_recommendation_question": "Any products that would be useful for my location?",
+    "target": [
+      "Village",
+      "Hamlet",
+      "Settlement",
+      "Outpost",
+      "Rural community",
+      "Tiny municipality",
+      "Small borough",
+      "Remote township",
+      "Very small town"
+    ]
+  },
+  {
+    "input_attribute": "I live in texas.",
+    "attribute_type": [
+      "place",
+      "position",
+      "whereabouts",
+      "site",
+      "address",
+      "locale",
+      "spot",
+      "geographical area",
+      "location"
+    ],
+    "question": [
+      "What's your favorite place to visit?",
+      "What's your position on this issue?",
+      "What are your whereabouts right now?",
+      "What's your site about?",
+      "What's your current address?",
+      "What's your locale like?",
+      "What's your favorite spot to relax?",
+      "What geographical area are you from?",
+      "What's my location?"
+    ],
+    "question_paraphrased": "Where do I live?",
+    "implicit_question": "What's the weather like where I am?",
+    "product_recommendation_question": "Any products I should buy for my location?",
+    "target": [
+      "Lone Star State",
+      "The Lone Star",
+      "Big Texas",
+      "Texan Territory",
+      "Republic of Texas",
+      "Cowboy State",
+      "Oil State",
+      "Longhorn Land",
+      "Texas"
+    ]
+  },
+  {
+    "input_attribute": "I spend most of my day at school.",
+    "attribute_type": [
+      "place",
+      "position",
+      "address",
+      "whereabouts",
+      "site",
+      "locale",
+      "geographical area",
+      "coordinates",
+      "location"
+    ],
+    "question": [
+      "What's your favorite place to visit?",
+      "What's your position on this issue?",
+      "What's your current address?",
+      "What are your whereabouts right now?",
+      "What's your site about?",
+      "What's your locale like?",
+      "What's your geographical area like?",
+      "What are your coordinates right now?",
+      "What's my location?"
+    ],
+    "question_paraphrased": "Where do I spend most of my time?",
+    "implicit_question": "What's taking up most of my day lately?",
+    "product_recommendation_question": "Any items I should get for where I spend most of my time?",
+    "target": [
+      "Educational institution",
+      "Academy",
+      "Learning center",
+      "Campus",
+      "Institute",
+      "College",
+      "University",
+      "Classroom",
+      "School"
+    ]
+  },
+  {
+    "input_attribute": "I grew up in california.",
+    "attribute_type": [
+      "place",
+      "position",
+      "whereabouts",
+      "site",
+      "address",
+      "locale",
+      "vicinity",
+      "coordinates",
+      "location"
+    ],
+    "question": [
+      "What's your favorite place to visit?",
+      "What's your position on this issue?",
+      "What are your whereabouts right now?",
+      "What's your site about?",
+      "What's your current address?",
+      "What's your locale like?",
+      "What's happening in your vicinity right now?",
+      "What are your coordinates right now?",
+      "What's my location?"
+    ],
+    "question_paraphrased": "Where am I from?",
+    "implicit_question": "What do you think shaped my childhood experiences?",
+    "product_recommendation_question": "Any products that would remind me of my location?",
+    "target": [
+      "West Coast childhood",
+      "Golden State roots",
+      "California-raised background",
+      "Pacific Coast upbringing",
+      "SoCal/NorCal origins",
+      "California native experience",
+      "West Coast formative years",
+      "Golden State childhood",
+      "California upbringing"
+    ]
+  },
+  {
+    "input_attribute": "I will be moving to new york city next year.",
+    "attribute_type": [
+      "place",
+      "position",
+      "whereabouts",
+      "site",
+      "address",
+      "locale",
+      "vicinity",
+      "coordinates",
+      "location"
+    ],
+    "question": [
+      "What's your favorite place to relax?",
+      "What's your position on this issue?",
+      "What are your whereabouts right now?",
+      "What's your site about?",
+      "What's your current address?",
+      "What's your locale like?",
+      "What's happening in your vicinity right now?",
+      "What are your coordinates right now?",
+      "What's my location?"
+    ],
+    "question_paraphrased": "Where am I going to be living?",
+    "implicit_question": "What should I know about getting settled in a new place?",
+    "product_recommendation_question": "Any gear I should buy for my location?",
+    "target": [
+      "Relocating to NYC",
+      "New York bound",
+      "Manhattan migration",
+      "Big Apple move",
+      "NYC relocation",
+      "Heading to New York",
+      "New York transition",
+      "Settling in NYC",
+      "Moving to New York City"
+    ]
+  },
+  {
+    "input_attribute": "I do not drive because i live in new york.",
+    "attribute_type": [
+      "place",
+      "position",
+      "whereabouts",
+      "site",
+      "address",
+      "locale",
+      "coordinates",
+      "geographical area",
+      "location"
+    ],
+    "question": [
+      "What's your favorite place to visit?",
+      "What's your position on this issue?",
+      "What are your whereabouts right now?",
+      "What's your site about?",
+      "What's your current address?",
+      "What's your locale like?",
+      "What are your coordinates right now?",
+      "What geographical area are you from?",
+      "What's my location?"
+    ],
+    "question_paraphrased": "Where do I live?",
+    "implicit_question": "What's the best way for me to get around the city?",
+    "product_recommendation_question": "Any products I should buy for my location?",
+    "target": [
+      "Manhattan pedestrian",
+      "NYC non-driver",
+      "Carless New Yorker",
+      "Metro-dependent resident",
+      "Transit-riding New Yorker",
+      "Walking New Yorker",
+      "Subway commuter",
+      "Car-free city dweller",
+      "New York resident who doesn't drive"
+    ]
+  },
+  {
+    "input_attribute": "I have a turtle named timothy.",
+    "attribute_type": [
+      "companion animal",
+      "domestic animal",
+      "furry friend",
+      "animal companion",
+      "household pet",
+      "family pet",
+      "domesticated animal",
+      "beloved animal",
+      "pet"
+    ],
+    "question": [
+      "What kind of companion animal do you have?",
+      "What's your favorite domestic animal to have as a pet?",
+      "How's your furry friend doing?",
+      "What's your animal companion like?",
+      "What kind of household pet do you have?",
+      "What kind of family pet do you have?",
+      "What's your favorite domesticated animal to have as a pet?",
+      "What's your beloved animal?",
+      "What's my pet?"
+    ],
+    "question_paraphrased": "What kind of animal do I have as a companion?",
+    "implicit_question": "What's been keeping me busy with daily care routines lately?",
+    "product_recommendation_question": "Any supplies I should buy for my pet?",
+    "target": [
+      "Turtle keeper",
+      "Chelonian enthusiast",
+      "Turtle caretaker",
+      "Reptile owner",
+      "Turtle guardian",
+      "Shell pet parent",
+      "Turtle hobbyist",
+      "Chelonian keeper",
+      "Turtle owner"
+    ]
+  },
+  {
+    "input_attribute": "I have two dogs and one cat.",
+    "attribute_type": [
+      "companion animal",
+      "domestic animal",
+      "furry friend",
+      "animal companion",
+      "household pet",
+      "family pet",
+      "beloved animal",
+      "animal friend",
+      "pet"
+    ],
+    "question": [
+      "What kind of companion animal do you have?",
+      "What's your favorite domestic animal to have as a pet?",
+      "How's your furry friend doing?",
+      "What's your animal companion like?",
+      "What kind of household pet do you have?",
+      "What kind of family pet do you have?",
+      "What's your beloved animal?",
+      "What's your animal friend like?",
+      "What's my pet?"
+    ],
+    "question_paraphrased": "What animals do I have at home?",
+    "implicit_question": "What keeps me busy at home when I'm not working?",
+    "product_recommendation_question": "Any supplies I should buy for my pet?",
+    "target": [
+      "Three pets",
+      "Canine duo plus feline",
+      "Two pups, one kitty",
+      "Dog pair and cat",
+      "Trio of animals",
+      "Three furry companions",
+      "Two hounds, one mouser",
+      "Mixed pet trio",
+      "Two dogs and one cat"
+    ]
+  },
+  {
+    "input_attribute": "I love animals and have two dogs.",
+    "attribute_type": [
+      "companion animal",
+      "domestic animal",
+      "furry friend",
+      "animal companion",
+      "household pet",
+      "family pet",
+      "beloved animal",
+      "animal friend",
+      "pet"
+    ],
+    "question": [
+      "What kind of companion animal do you have?",
+      "What's your favorite domestic animal to have as a pet?",
+      "How's your furry friend doing?",
+      "What's your animal companion like?",
+      "What kind of household pet do you have?",
+      "What kind of family pet do you have?",
+      "What's your beloved animal?",
+      "What's your animal friend like?",
+      "What's my pet?"
+    ],
+    "question_paraphrased": "What kind of animal companion do I have?",
+    "implicit_question": "What keeps me busy at home when I'm not working?",
+    "product_recommendation_question": "Any supplies I should buy for my pet?",
+    "target": [
+      "A pair of canines",
+      "Dog duo",
+      "Two pups",
+      "Canine couple",
+      "A brace of dogs",
+      "Twin hounds",
+      "Dog pair",
+      "Two mutts",
+      "Two dogs"
+    ]
+  },
+  {
+    "input_attribute": "I have an exotic fish aquarium.",
+    "attribute_type": [
+      "companion animal",
+      "domestic animal",
+      "furry friend",
+      "animal companion",
+      "household pet",
+      "family pet",
+      "beloved animal",
+      "animal friend",
+      "pet"
+    ],
+    "question": [
+      "What kind of companion animal do you have?",
+      "What's your favorite domestic animal to have as a pet?",
+      "How's your furry friend doing these days?",
+      "What's your animal companion like?",
+      "What kind of household pet do you have?",
+      "What kind of family pet do you have?",
+      "What's your beloved animal?",
+      "What's your animal friend like?",
+      "What's my pet?"
+    ],
+    "question_paraphrased": "What kind of animal do I keep?",
+    "implicit_question": "What do you think I should feed my little friends at home?",
+    "product_recommendation_question": "Any supplies I should buy for my pet?",
+    "target": [
+      "Tropical fish",
+      "Ornamental fish",
+      "Rare fish",
+      "Foreign fish",
+      "Unusual fish",
+      "Decorative fish",
+      "Non-native fish",
+      "Aquarium fish",
+      "Exotic fish"
+    ]
+  },
+  {
+    "input_attribute": "I have three dogs.",
+    "attribute_type": [
+      "companion animal",
+      "domestic animal",
+      "furry friend",
+      "animal companion",
+      "household pet",
+      "family pet",
+      "beloved animal",
+      "animal friend",
+      "pet"
+    ],
+    "question": [
+      "What kind of companion animal do you have?",
+      "What's your favorite domestic animal?",
+      "How's your furry friend doing?",
+      "What's your animal companion like?",
+      "What kind of household pet do you have?",
+      "What kind of family pet do you have?",
+      "What's your beloved animal?",
+      "What's your animal friend like?",
+      "What's my pet?"
+    ],
+    "question_paraphrased": "What kind of animal do I keep as a companion?",
+    "implicit_question": "What keeps me busy at home every day?",
+    "product_recommendation_question": "Any supplies I should buy for my pet?",
+    "target": [
+      "Trio of canines",
+      "Three hounds",
+      "Canine trio",
+      "Three pups",
+      "Dog threesome",
+      "Triple dogs",
+      "Three mutts",
+      "Triad of dogs",
+      "Three dogs"
+    ]
+  },
+  {
+    "input_attribute": "I love cats.",
+    "attribute_type": [
+      "companion animal",
+      "domestic animal",
+      "animal companion",
+      "furry friend",
+      "household pet",
+      "family pet",
+      "domesticated animal",
+      "animal friend",
+      "pet"
+    ],
+    "question": [
+      "What kind of companion animal do you have?",
+      "What's your favorite domestic animal to have as a pet?",
+      "What's your animal companion like?",
+      "How's your furry friend doing these days?",
+      "What kind of household pet do you have?",
+      "What kind of family pet do you have?",
+      "What's your favorite domesticated animal to have as a pet?",
+      "What's your animal friend like?",
+      "What's my pet?"
+    ],
+    "question_paraphrased": "What kind of animal do I have as a companion?",
+    "implicit_question": "What furry friend keeps me company at home?",
+    "product_recommendation_question": "Any supplies I should buy for my pet?",
+    "target": [
+      "Felines",
+      "Kitties",
+      "Feline companions",
+      "House cats",
+      "Domestic cats",
+      "Kitty cats",
+      "Feline friends",
+      "Pet cats",
+      "Cats"
+    ]
+  },
+  {
+    "input_attribute": "I have a siamese cat.",
+    "attribute_type": [
+      "companion animal",
+      "domestic animal",
+      "animal companion",
+      "furry friend",
+      "household pet",
+      "family pet",
+      "domesticated animal",
+      "animal friend",
+      "pet"
+    ],
+    "question": [
+      "What kind of companion animal do you have?",
+      "What kind of domestic animal do you have at home?",
+      "What's your animal companion like?",
+      "How's your furry friend doing these days?",
+      "What kind of household pet do you have?",
+      "What kind of family pet do you have?",
+      "What's your favorite domesticated animal to have as a pet?",
+      "What's your animal friend like?",
+      "What's my pet?"
+    ],
+    "question_paraphrased": "What kind of animal do I have as a companion?",
+    "implicit_question": "What's been keeping me company at home lately?",
+    "product_recommendation_question": "Any products I should buy for my pet?",
+    "target": [
+      "Thai cat",
+      "Royal cat of Siam",
+      "Siamese feline",
+      "Color-point cat",
+      "Seal-point Siamese",
+      "Traditional Siamese",
+      "Applehead Siamese",
+      "Sacred cat of Thailand",
+      "Siamese cat"
+    ]
+  },
+  {
+    "input_attribute": "I have a dog named max.",
+    "attribute_type": [
+      "companion animal",
+      "domestic animal",
+      "furry friend",
+      "animal companion",
+      "household pet",
+      "family pet",
+      "beloved animal",
+      "animal friend",
+      "pet"
+    ],
+    "question": [
+      "What kind of companion animal do you have?",
+      "What's your favorite domestic animal to have as a pet?",
+      "How's your furry friend doing?",
+      "What's your animal companion like?",
+      "What kind of household pet do you have?",
+      "What kind of family pet do you have?",
+      "What's your beloved animal?",
+      "What's your animal friend like?",
+      "What's my pet?"
+    ],
+    "question_paraphrased": "What kind of animal do I have as a companion?",
+    "implicit_question": "Who keeps me company at home?",
+    "product_recommendation_question": "Any products I should buy for my pet?",
+    "target": [
+      "Max the dog",
+      "Canine called Max",
+      "Max the canine",
+      "Dog called Max",
+      "Max the pup",
+      "Pup named Max",
+      "Max the hound",
+      "Hound named Max",
+      "Dog named Max"
+    ]
+  },
+  {
+    "input_attribute": "I have a dog named pedro.",
+    "attribute_type": [
+      "companion animal",
+      "domestic animal",
+      "furry friend",
+      "animal companion",
+      "household pet",
+      "family pet",
+      "domesticated animal",
+      "animal friend",
+      "pet"
+    ],
+    "question": [
+      "What kind of companion animal do you have?",
+      "What's your favorite domestic animal to have as a pet?",
+      "How's your furry friend doing?",
+      "What's your animal companion like?",
+      "What kind of household pet do you have?",
+      "What kind of family pet do you have?",
+      "What's your favorite domesticated animal to have as a pet?",
+      "What's your animal friend like?",
+      "What's my pet?"
+    ],
+    "question_paraphrased": "What kind of animal do I have as a companion?",
+    "implicit_question": "What keeps me busy at home and needs daily walks?",
+    "product_recommendation_question": "Any products I should buy for my pet?",
+    "target": [
+      "Pedro the dog",
+      "Canine called Pedro",
+      "Pedro (dog)",
+      "Dog Pedro",
+      "Pup named Pedro",
+      "Hound called Pedro",
+      "Pedro the canine",
+      "Pedro the pup",
+      "Dog named Pedro"
+    ]
+  },
+  {
+    "input_attribute": "I have a golden retriever named ginger.",
+    "attribute_type": [
+      "companion animal",
+      "domestic animal",
+      "furry friend",
+      "animal companion",
+      "household pet",
+      "family pet",
+      "beloved animal",
+      "animal friend",
+      "pet"
+    ],
+    "question": [
+      "What kind of companion animal do you have?",
+      "What's your favorite domestic animal to have as a pet?",
+      "How's your furry friend doing?",
+      "What's your animal companion like?",
+      "What kind of household pet do you have?",
+      "What kind of family pet do you have?",
+      "What's your beloved animal?",
+      "What's your animal friend like?",
+      "What's my pet?"
+    ],
+    "question_paraphrased": "What kind of animal do I have?",
+    "implicit_question": "What's been keeping me busy with walks and playtime lately?",
+    "product_recommendation_question": "Any products I should buy for my pet?",
+    "target": [
+      "Golden retriever parent",
+      "Retriever keeper",
+      "Golden owner",
+      "Dog parent",
+      "Retriever guardian",
+      "Golden caretaker",
+      "Retriever companion",
+      "Golden dog owner",
+      "Golden retriever owner"
+    ]
+  },
+  {
+    "input_attribute": "My favorite music is jazz.",
+    "attribute_type": [
+      "musical taste",
+      "genre preference",
+      "sound preference",
+      "audio taste",
+      "musical style",
+      "listening preference",
+      "sonic taste",
+      "musical inclination",
+      "music preference"
+    ],
+    "question": [
+      "What's your musical taste like?",
+      "What's your genre preference when it comes to movies?",
+      "What's your sound preference when you're trying to focus?",
+      "What's your audio taste like?",
+      "What's your musical style?",
+      "What's your listening preference when it comes to music or podcasts?",
+      "What's your sonic taste when it comes to music?",
+      "What's your musical inclination?",
+      "What's my music preference?"
+    ],
+    "question_paraphrased": "What kind of music do I like?",
+    "implicit_question": "What should I listen to while I'm working?",
+    "product_recommendation_question": "Any equipment I should buy for my music preference?",
+    "target": [
+      "Jazz",
+      "Swing music",
+      "Bebop",
+      "Improvisational music",
+      "American jazz",
+      "Jazz genre",
+      "Syncopated music",
+      "Hot jazz",
+      "Jazz music"
+    ]
+  },
+  {
+    "input_attribute": "I listen to rap music.",
+    "attribute_type": [
+      "musical taste",
+      "sound preference",
+      "audio choice",
+      "genre preference",
+      "listening style",
+      "musical inclination",
+      "sonic taste",
+      "rhythm preference",
+      "music preference"
+    ],
+    "question": [
+      "What's your musical taste like?",
+      "What's your sound preference when you're trying to focus?",
+      "What's your audio choice for working out?",
+      "What's your genre preference when it comes to movies?",
+      "What's your listening style when someone's talking to you?",
+      "What's your musical inclination?",
+      "What's your sonic taste when it comes to music?",
+      "What's your rhythm preference when it comes to music?",
+      "What's my music preference?"
+    ],
+    "question_paraphrased": "What kind of music do I enjoy?",
+    "implicit_question": "What should I put on my playlist tonight?",
+    "product_recommendation_question": "Any gear I should buy for my music preference?",
+    "target": [
+      "Hip-hop",
+      "Rhyming vocals",
+      "Spoken verse music",
+      "MC music",
+      "Rhythmic poetry",
+      "Verbal beats",
+      "Lyrical flow",
+      "Street poetry",
+      "Rap music"
+    ]
+  },
+  {
+    "input_attribute": "I am a huge ed sheeran fan.",
+    "attribute_type": [
+      "musical taste",
+      "genre preference",
+      "sound preference",
+      "audio taste",
+      "listening preference",
+      "musical style",
+      "sonic preference",
+      "tune preference",
+      "music preference"
+    ],
+    "question": [
+      "What's your musical taste like?",
+      "What's your genre preference when it comes to movies?",
+      "What's your sound preference when you're trying to focus?",
+      "What's your audio taste like?",
+      "What's your listening preference when it comes to music or podcasts?",
+      "What's your musical style?",
+      "What's your sonic preference when it comes to background music while working?",
+      "What's your tune preference when you're working out?",
+      "What's my music preference?"
+    ],
+    "question_paraphrased": "What kind of music do I like?",
+    "implicit_question": "What should I listen to while I'm working today?",
+    "product_recommendation_question": "Any music-related products I should buy for my music preference?",
+    "target": [
+      "Ed Sheeran enthusiast",
+      "Sheeran supporter",
+      "Ed devotee",
+      "Sheeran admirer",
+      "Ed follower",
+      "Sheeran lover",
+      "Ed stan",
+      "Sheerio",
+      "Ed Sheeran fan"
+    ]
+  },
+  {
+    "input_attribute": "My favorite band is simple plan.",
+    "attribute_type": [
+      "musical taste",
+      "sound preference",
+      "audio choice",
+      "genre preference",
+      "listening style",
+      "musical inclination",
+      "sonic taste",
+      "auditory preference",
+      "music preference"
+    ],
+    "question": [
+      "What's your musical taste like?",
+      "What's your sound preference when you're trying to focus?",
+      "What's your audio choice for working out?",
+      "What's your genre preference when it comes to movies?",
+      "What's your listening style when someone's talking to you?",
+      "What's your musical inclination?",
+      "What's your sonic taste when it comes to music?",
+      "What's your auditory preference when it comes to background music while working?",
+      "What's my music preference?"
+    ],
+    "question_paraphrased": "What kind of music do I like?",
+    "implicit_question": "What should I listen to while working out?",
+    "product_recommendation_question": "Any gear I should buy for my music preference?",
+    "target": [
+      "Basic Strategy",
+      "Straightforward Approach",
+      "Easy Scheme",
+      "Uncomplicated Method",
+      "Direct Course",
+      "Clear Blueprint",
+      "Elementary Design",
+      "Bare-bones Framework",
+      "Simple Plan"
+    ]
+  },
+  {
+    "input_attribute": "My favorite band is nirvana.",
+    "attribute_type": [
+      "musical taste",
+      "genre preference",
+      "sound choice",
+      "audio preference",
+      "musical style",
+      "listening preference",
+      "sonic taste",
+      "music selection",
+      "music preference"
+    ],
+    "question": [
+      "What's your musical taste like?",
+      "What's your genre preference when it comes to movies?",
+      "What's your sound choice for background music while working?",
+      "What's your audio preference when listening to music?",
+      "What's your musical style?",
+      "What's your listening preference when it comes to music or podcasts?",
+      "What's your sonic taste when it comes to music?",
+      "What's your music selection like?",
+      "What's my music preference?"
+    ],
+    "question_paraphrased": "What kind of music do I like?",
+    "implicit_question": "What should I listen to while I'm working out?",
+    "product_recommendation_question": "Any gear I should buy for my music preference?",
+    "target": [
+      "Enlightenment",
+      "Bliss",
+      "Paradise",
+      "Transcendence",
+      "Perfect peace",
+      "Ultimate liberation",
+      "Spiritual awakening",
+      "Divine consciousness",
+      "Nirvana"
+    ]
+  },
+  {
+    "input_attribute": "I like jazz music.",
+    "attribute_type": [
+      "musical taste",
+      "genre preference",
+      "sound preference",
+      "audio taste",
+      "musical inclination",
+      "listening preference",
+      "sonic taste",
+      "musical style",
+      "music preference"
+    ],
+    "question": [
+      "What's your musical taste like?",
+      "What's your genre preference when it comes to movies?",
+      "What's your sound preference when you're trying to focus?",
+      "What's your audio taste like?",
+      "What's your musical inclination?",
+      "What's your listening preference when it comes to music or podcasts?",
+      "What's your sonic taste when it comes to music?",
+      "What's your musical style?",
+      "What's my music preference?"
+    ],
+    "question_paraphrased": "What kind of music do I enjoy listening to?",
+    "implicit_question": "What should I put on for some good background music?",
+    "product_recommendation_question": "Any equipment I should buy for my music preference?",
+    "target": [
+      "Jazz",
+      "Swing music",
+      "Bebop",
+      "Improvisational music",
+      "Jazz genre",
+      "American jazz",
+      "Jazz style",
+      "Syncopated music",
+      "Jazz music"
+    ]
+  },
+  {
+    "input_attribute": "I like to listen to country music.",
+    "attribute_type": [
+      "musical taste",
+      "genre preference",
+      "sound preference",
+      "audio taste",
+      "musical style",
+      "listening preference",
+      "sonic taste",
+      "musical inclination",
+      "music preference"
+    ],
+    "question": [
+      "What's your musical taste like?",
+      "What's your genre preference when it comes to movies?",
+      "What's your sound preference when you're trying to focus?",
+      "What's your audio taste like?",
+      "What's your musical style?",
+      "What's your listening preference when it comes to music or podcasts?",
+      "What's your sonic taste when it comes to music?",
+      "What's your musical inclination?",
+      "What's my music preference?"
+    ],
+    "question_paraphrased": "What kind of music do I enjoy?",
+    "implicit_question": "What should I put on the playlist for tonight?",
+    "product_recommendation_question": "Any gear I should buy for my music preference?",
+    "target": [
+      "Country and western",
+      "Hillbilly music",
+      "Folk country",
+      "Americana",
+      "Nashville sound",
+      "Honky-tonk",
+      "Bluegrass",
+      "Western music",
+      "Country music"
+    ]
+  },
+  {
+    "input_attribute": "My favorite singer is tim mcgraw.",
+    "attribute_type": [
+      "musical taste",
+      "genre preference",
+      "sound preference",
+      "audio taste",
+      "musical inclination",
+      "listening preference",
+      "sonic taste",
+      "musical choice",
+      "music preference"
+    ],
+    "question": [
+      "What's your musical taste like?",
+      "What's your genre preference when it comes to movies?",
+      "What's your sound preference when you're trying to focus?",
+      "What's your audio taste like?",
+      "What's your musical inclination?",
+      "What's your listening preference when it comes to music or podcasts?",
+      "What's your sonic taste like when it comes to music?",
+      "What's your musical choice when you're feeling stressed?",
+      "What's my music preference?"
+    ],
+    "question_paraphrased": "What kind of music do I like?",
+    "implicit_question": "What should I listen to while driving?",
+    "product_recommendation_question": "Any products I should buy for my music preference?",
+    "target": [
+      "Country music star",
+      "Nashville legend",
+      "Faith's husband",
+      "Country crocodile",
+      "The McGraw man",
+      "Tug's son",
+      "Louisiana native",
+      "Country superstar",
+      "Tim McGraw"
+    ]
+  },
+  {
+    "input_attribute": "I love rap music.",
+    "attribute_type": [
+      "musical taste",
+      "genre preference",
+      "sound preference",
+      "audio taste",
+      "listening preference",
+      "musical style",
+      "sonic preference",
+      "rhythm preference",
+      "music preference"
+    ],
+    "question": [
+      "What's your musical taste like?",
+      "What's your genre preference when it comes to movies?",
+      "What's your sound preference when you're trying to focus or relax?",
+      "What's your audio taste like?",
+      "What's your listening preference when it comes to music or podcasts?",
+      "What's your musical style?",
+      "What's your sonic preference when it comes to background music while working?",
+      "What's your rhythm preference when it comes to music?",
+      "What's my music preference?"
+    ],
+    "question_paraphrased": "What kind of music do I enjoy listening to?",
+    "implicit_question": "What should I put on my playlist for tonight?",
+    "product_recommendation_question": "Any gear I should buy for my music preference?",
+    "target": [
+      "Hip-hop",
+      "Rhyming vocals",
+      "Spoken verse",
+      "Rhythmic poetry",
+      "MC music",
+      "Verbal flow",
+      "Lyrical rap",
+      "Beat poetry",
+      "Rap music"
+    ]
+  },
+  {
+    "input_attribute": "I love the band rush.",
+    "attribute_type": [
+      "musical taste",
+      "genre preference",
+      "sound preference",
+      "audio taste",
+      "musical style",
+      "listening preference",
+      "sonic taste",
+      "musical inclination",
+      "music preference"
+    ],
+    "question": [
+      "What's your musical taste like?",
+      "What's your genre preference when it comes to movies?",
+      "What's your sound preference when you're trying to focus?",
+      "What's your audio taste like?",
+      "What's your musical style?",
+      "What's your listening preference when it comes to music or podcasts?",
+      "What's your sonic taste when it comes to music?",
+      "What's your musical inclination?",
+      "What's my music preference?"
+    ],
+    "question_paraphrased": "What kind of music do I enjoy listening to?",
+    "implicit_question": "What should I put on my playlist tonight?",
+    "product_recommendation_question": "Any gear I should buy for my music preference?",
+    "target": [
+      "Rush enthusiast",
+      "Rush devotee",
+      "Rush aficionado",
+      "Rush follower",
+      "Rush admirer",
+      "Rush supporter",
+      "Rush lover",
+      "Rushhead",
+      "Rush band fan"
+    ]
+  },
+  {
+    "input_attribute": "I got a job working in advertising last year.",
+    "attribute_type": [
+      "occupation",
+      "profession",
+      "career",
+      "position",
+      "role",
+      "work",
+      "employment",
+      "vocation",
+      "job"
+    ],
+    "question": [
+      "What's your occupation?",
+      "What's your profession?",
+      "What's your career?",
+      "What's your position on this issue?",
+      "What's your role in the project?",
+      "What kind of work do you do?",
+      "What's your current employment situation?",
+      "What's your vocation?",
+      "What's my job?"
+    ],
+    "question_paraphrased": "What do I do for work?",
+    "implicit_question": "How's the new workplace treating you?",
+    "product_recommendation_question": "Any tools or resources I should get for my job?",
+    "target": [
+      "Marketing",
+      "Promotion",
+      "Publicity",
+      "Commercial messaging",
+      "Brand promotion",
+      "Sales pitch",
+      "Public relations",
+      "Product placement",
+      "Advertising"
+    ]
+  },
+  {
+    "input_attribute": "I work at mcdonald s.",
+    "attribute_type": [
+      "occupation",
+      "profession",
+      "career",
+      "position",
+      "role",
+      "work",
+      "employment",
+      "vocation",
+      "job"
+    ],
+    "question": [
+      "What's your occupation?",
+      "What's your profession?",
+      "What's your career?",
+      "What's your position on this issue?",
+      "What's your role in the project?",
+      "What kind of work do you do?",
+      "What's your current employment situation?",
+      "What's your vocation?",
+      "What's my job?"
+    ],
+    "question_paraphrased": "Where do I work?",
+    "implicit_question": "What do you think I'll be doing during my shift today?",
+    "product_recommendation_question": "Any gear I should buy for my job?",
+    "target": [
+      "McDonald's worker",
+      "Fast food employee",
+      "Crew member",
+      "McDonald's staff",
+      "Golden Arches employee",
+      "Quick service worker",
+      "McDonald's associate",
+      "Fast food crew",
+      "McDonald's employee"
+    ]
+  },
+  {
+    "input_attribute": "I currently work in an animal shelter as a kennel cleaner.",
+    "attribute_type": [
+      "occupation",
+      "profession",
+      "career",
+      "position",
+      "role",
+      "work",
+      "employment",
+      "vocation",
+      "job"
+    ],
+    "question": [
+      "What's your occupation?",
+      "What's your profession?",
+      "What's your career?",
+      "What's your position on this issue?",
+      "What's your role in the project?",
+      "What kind of work do you do?",
+      "What's your current employment situation?",
+      "What's your vocation?",
+      "What's my job?"
+    ],
+    "question_paraphrased": "What do I do for work?",
+    "implicit_question": "How was your day at work today?",
+    "product_recommendation_question": "Any equipment I should get for my job?",
+    "target": [
+      "Animal facility custodian",
+      "Shelter maintenance worker",
+      "Pet enclosure cleaner",
+      "Animal care attendant",
+      "Shelter sanitation specialist",
+      "Kennel maintenance staff",
+      "Animal housing cleaner",
+      "Shelter custodial worker",
+      "Kennel cleaner at animal shelter"
+    ]
+  },
+  {
+    "input_attribute": "I worked at hollister in high school.",
+    "attribute_type": [
+      "occupation",
+      "profession",
+      "career",
+      "position",
+      "role",
+      "work",
+      "employment",
+      "vocation",
+      "job"
+    ],
+    "question": [
+      "What's your occupation?",
+      "What's your profession?",
+      "What's your career?",
+      "What's your position on this issue?",
+      "What's your role in the project?",
+      "What kind of work do you do?",
+      "What's your current employment situation?",
+      "What's your vocation?",
+      "What's my job?"
+    ],
+    "question_paraphrased": "What kind of work do I do?",
+    "implicit_question": "What did I do to earn money when I was younger?",
+    "product_recommendation_question": "Any items I should get for my job?",
+    "target": [
+      "Hollister sales associate",
+      "Hollister team member",
+      "Hollister store employee",
+      "Hollister brand representative",
+      "Hollister retail associate",
+      "Hollister sales clerk",
+      "Hollister floor staff",
+      "Hollister customer service rep",
+      "Retail worker at Hollister"
+    ]
+  },
+  {
+    "input_attribute": "I work at pet smart.",
+    "attribute_type": [
+      "occupation",
+      "profession",
+      "career",
+      "position",
+      "role",
+      "employment",
+      "work",
+      "vocation",
+      "job"
+    ],
+    "question": [
+      "What's your occupation?",
+      "What's your profession?",
+      "What's your career?",
+      "What's your position on this issue?",
+      "What's your role in the project?",
+      "What's your current employment situation?",
+      "What kind of work do you do?",
+      "What's your vocation?",
+      "What's my job?"
+    ],
+    "question_paraphrased": "Where do I work?",
+    "implicit_question": "What do you think I do during the day?",
+    "product_recommendation_question": "Any gear I should buy for my job?",
+    "target": [
+      "Pet shop worker",
+      "Animal store clerk",
+      "Pet retailer staff",
+      "Petshop associate",
+      "Animal care attendant",
+      "Pet merchandise seller",
+      "Store animal specialist",
+      "Pet supply representative",
+      "Pet store employee"
+    ]
+  },
+  {
+    "input_attribute": "I have been at the same job for a years.",
+    "attribute_type": [
+      "occupation",
+      "profession",
+      "career",
+      "position",
+      "role",
+      "employment",
+      "work",
+      "vocation",
+      "job"
+    ],
+    "question": [
+      "What's your occupation?",
+      "What's your profession?",
+      "What's your career?",
+      "What's your position on this issue?",
+      "What's your role in the project?",
+      "What's your current employment situation?",
+      "What kind of work do you do?",
+      "What's your vocation?",
+      "What's my job?"
+    ],
+    "question_paraphrased": "What do I do for work?",
+    "implicit_question": "How's your work situation been lately?",
+    "product_recommendation_question": "Any tools or equipment I should get for my job?",
+    "target": [
+      "Veteran employee",
+      "Seasoned worker",
+      "Tenured staff member",
+      "Senior employee",
+      "Established worker",
+      "Longtime staffer",
+      "Experienced team member",
+      "Veteran worker",
+      "Long-term employee"
+    ]
+  },
+  {
+    "input_attribute": "I am unable to work at a job because of a disability.",
+    "attribute_type": [
+      "occupation",
+      "profession",
+      "career",
+      "position",
+      "role",
+      "work",
+      "employment",
+      "vocation",
+      "job"
+    ],
+    "question": [
+      "What's your occupation?",
+      "What's your profession?",
+      "What's your career?",
+      "What's your position on this issue?",
+      "What's your role in the project?",
+      "What kind of work do you do?",
+      "What's your current employment situation?",
+      "What's your vocation?",
+      "What's my job situation?"
+    ],
+    "question_paraphrased": "What's my current employment status?",
+    "implicit_question": "What do you think about different ways people spend their weekdays?",
+    "product_recommendation_question": "Any resources that might help with my daily routine?",
+    "target": [
+      "Disabled from employment",
+      "Work-disabled",
+      "Occupationally disabled",
+      "Employment-restricted by disability",
+      "Disability prevents work",
+      "Incapacitated for work",
+      "Work-incapacitated",
+      "Disabled for employment",
+      "Unable to work due to disability"
+    ]
+  },
+  {
+    "input_attribute": "I have two part time jobs.",
+    "attribute_type": [
+      "occupation",
+      "profession",
+      "career",
+      "position",
+      "role",
+      "work",
+      "employment",
+      "vocation",
+      "job"
+    ],
+    "question": [
+      "What's your occupation?",
+      "What's your profession?",
+      "What's your career?",
+      "What's your position on this issue?",
+      "What's your role in the project?",
+      "What kind of work do you do?",
+      "What's your current employment situation?",
+      "What's your vocation?",
+      "What's my job?"
+    ],
+    "question_paraphrased": "What do I do for work?",
+    "implicit_question": "How do you manage your schedule when you're always busy with work commitments?",
+    "product_recommendation_question": "Any tools or products that could help me be more efficient at my job?",
+    "target": [
+      "Dual employment",
+      "Double shifts",
+      "Multiple positions",
+      "Side hustles",
+      "Split schedule",
+      "Concurrent roles",
+      "Shared workload",
+      "Divided employment",
+      "Two part time jobs"
+    ]
+  },
+  {
+    "input_attribute": "My job is cleaning out cages at a research facility.",
+    "attribute_type": [
+      "occupation",
+      "profession",
+      "career",
+      "position",
+      "role",
+      "employment",
+      "work",
+      "vocation",
+      "job"
+    ],
+    "question": [
+      "What's your occupation?",
+      "What's your profession?",
+      "What's your career?",
+      "What's your position on this issue?",
+      "What's your role in the project?",
+      "What's your current employment situation?",
+      "What kind of work do you do?",
+      "What's your vocation?",
+      "What's my job?"
+    ],
+    "question_paraphrased": "What do I do for work?",
+    "implicit_question": "How was your day at work today?",
+    "product_recommendation_question": "Any equipment I should get for my job?",
+    "target": [
+      "Laboratory animal caretaker",
+      "Vivarium maintenance technician",
+      "Animal housing attendant",
+      "Research kennel custodian",
+      "Lab cage sanitizer",
+      "Animal facility janitor",
+      "Vivarium cleaner",
+      "Laboratory animal technician",
+      "Research facility cage cleaner"
+    ]
+  },
+  {
+    "input_attribute": "I work in a grocery store.",
+    "attribute_type": [
+      "occupation",
+      "profession",
+      "career",
+      "position",
+      "role",
+      "employment",
+      "work",
+      "vocation",
+      "job"
+    ],
+    "question": [
+      "What's your occupation?",
+      "What's your profession?",
+      "What's your career?",
+      "What's your position on this issue?",
+      "What's your role in the project?",
+      "What's your current employment situation?",
+      "What kind of work do you do?",
+      "What's your vocation?",
+      "What's my job?"
+    ],
+    "question_paraphrased": "Where do I work?",
+    "implicit_question": "What do you think I do during the day to earn a living?",
+    "product_recommendation_question": "Any gear I should buy for my job?",
+    "target": [
+      "Store clerk",
+      "Supermarket employee",
+      "Retail associate",
+      "Grocery clerk",
+      "Market worker",
+      "Food store staff",
+      "Supermarket associate",
+      "Retail employee",
+      "Grocery store worker"
+    ]
+  },
+  {
+    "input_attribute": "I hope to retire someday soon.",
+    "attribute_type": [
+      "professional aspiration",
+      "career objective",
+      "work ambition",
+      "professional aim",
+      "career target",
+      "vocational goal",
+      "professional pursuit",
+      "career vision",
+      "career goal"
+    ],
+    "question": [
+      "What's your professional aspiration?",
+      "What's your career objective?",
+      "What's your biggest work ambition right now?",
+      "What's your professional aim?",
+      "What's your career target?",
+      "What's your vocational goal?",
+      "What's your main professional pursuit these days?",
+      "What's your career vision for the next five years?",
+      "What's my career goal?"
+    ],
+    "question_paraphrased": "What am I working toward professionally?",
+    "implicit_question": "What are you looking forward to most in the next few years?",
+    "product_recommendation_question": "Any resources I should consider for my career goal?",
+    "target": [
+      "Golden years",
+      "Pension time",
+      "Post-career life",
+      "Senior years",
+      "Later life",
+      "Twilight years",
+      "End of career",
+      "Pensioner status",
+      "Retirement"
+    ]
+  },
+  {
+    "input_attribute": "I am going to hairdresser school.",
+    "attribute_type": [
+      "professional aspiration",
+      "career objective",
+      "vocational aim",
+      "work ambition",
+      "professional target",
+      "career direction",
+      "occupational goal",
+      "professional pursuit",
+      "career goal"
+    ],
+    "question": [
+      "What's your professional aspiration?",
+      "What's your career objective?",
+      "What's your vocational aim for the next few years?",
+      "What's your work ambition?",
+      "What's your professional target for the next few years?",
+      "What's your career direction?",
+      "What's your occupational goal?",
+      "What's your main professional pursuit these days?",
+      "What's my career goal?"
+    ],
+    "question_paraphrased": "What am I working toward professionally?",
+    "implicit_question": "What's keeping me busy with my studies these days?",
+    "product_recommendation_question": "Any tools I should invest in for my career goal?",
+    "target": [
+      "Entering hair styling",
+      "Pursuing cosmetology",
+      "Training as stylist",
+      "Learning hair craft",
+      "Studying beauty arts",
+      "Joining salon profession",
+      "Mastering hair techniques",
+      "Embracing styling career",
+      "Becoming a hairdresser"
+    ]
+  },
+  {
+    "input_attribute": "Its a dead end job so i am looking for something different.",
+    "attribute_type": [
+      "professional aspiration",
+      "career objective",
+      "work ambition",
+      "professional aim",
+      "career target",
+      "occupational goal",
+      "professional pursuit",
+      "career vision",
+      "career goal"
+    ],
+    "question": [
+      "What's your professional aspiration?",
+      "What's your career objective?",
+      "What's your biggest work ambition right now?",
+      "What's your professional aim?",
+      "What's your career target?",
+      "What's your occupational goal?",
+      "What's your main professional pursuit these days?",
+      "What's your career vision for the next five years?",
+      "What's my career goal?"
+    ],
+    "question_paraphrased": "What am I hoping to achieve professionally?",
+    "implicit_question": "Any advice for someone feeling stuck at work?",
+    "product_recommendation_question": "What resources might help me with my career goal?",
+    "target": [
+      "Career transition",
+      "Professional pivot",
+      "Job switch",
+      "Career shift",
+      "Occupational change",
+      "Career move",
+      "Professional transition",
+      "Career pivot",
+      "Career change"
+    ]
+  },
+  {
+    "input_attribute": "I want to be successful.",
+    "attribute_type": [
+      "professional aspiration",
+      "career objective",
+      "work ambition",
+      "professional aim",
+      "career target",
+      "vocational goal",
+      "professional pursuit",
+      "career vision",
+      "career goal"
+    ],
+    "question": [
+      "What's your professional aspiration?",
+      "What's your career objective?",
+      "What's your biggest work ambition right now?",
+      "What's your professional aim?",
+      "What's your career target?",
+      "What's your vocational goal?",
+      "What's your main professional pursuit these days?",
+      "What's your career vision for the next five years?",
+      "What's my career goal?"
+    ],
+    "question_paraphrased": "What am I working toward in my professional life?",
+    "implicit_question": "What drives you to work hard every day?",
+    "product_recommendation_question": "Any tools or resources I should invest in for my career goal?",
+    "target": [
+      "Achievement",
+      "Victory",
+      "Triumph",
+      "Accomplishment",
+      "Win",
+      "Prosperity",
+      "Breakthrough",
+      "Favorable outcome",
+      "Success"
+    ]
+  },
+  {
+    "input_attribute": "I study law.",
+    "attribute_type": [
+      "professional aspiration",
+      "career objective",
+      "work ambition",
+      "professional aim",
+      "career target",
+      "occupational goal",
+      "professional pursuit",
+      "career vision",
+      "career goal"
+    ],
+    "question": [
+      "What's your professional aspiration?",
+      "What's your career objective?",
+      "What's your biggest work ambition right now?",
+      "What's your professional aim?",
+      "What's your career target?",
+      "What's your occupational goal?",
+      "What's your main professional pursuit these days?",
+      "What's your career vision for the next five years?",
+      "What's my career goal?"
+    ],
+    "question_paraphrased": "What am I working toward professionally?",
+    "implicit_question": "What should I focus on to advance my future prospects?",
+    "product_recommendation_question": "Any resources I should get to help with my career goal?",
+    "target": [
+      "Law practice",
+      "Legal profession",
+      "Jurisprudence career",
+      "Attorney path",
+      "Legal vocation",
+      "Bar career",
+      "Judicial profession",
+      "Legal field work",
+      "Legal career"
+    ]
+  },
+  {
+    "input_attribute": "I am taking college and hoping to be a teacher.",
+    "attribute_type": [
+      "professional aspiration",
+      "career objective",
+      "work ambition",
+      "professional aim",
+      "career target",
+      "vocational goal",
+      "professional direction",
+      "career vision",
+      "career goal"
+    ],
+    "question": [
+      "What's your professional aspiration?",
+      "What's your career objective?",
+      "What's your biggest work ambition right now?",
+      "What's your professional aim?",
+      "What's your career target?",
+      "What's your vocational goal?",
+      "What's your professional direction?",
+      "What's your career vision for the next five years?",
+      "What's my career goal?"
+    ],
+    "question_paraphrased": "What do I want to do professionally?",
+    "implicit_question": "What should I focus on for my future after graduation?",
+    "product_recommendation_question": "Any resources I should get to help with my career goal?",
+    "target": [
+      "Entering education",
+      "Pursuing teaching",
+      "Joining the profession",
+      "Training to teach",
+      "Embarking on teaching",
+      "Starting an education career",
+      "Transitioning to teaching",
+      "Preparing for classroom work",
+      "Becoming a teacher"
+    ]
+  },
+  {
+    "input_attribute": "I want to be a fashion designer.",
+    "attribute_type": [
+      "professional aspiration",
+      "career objective",
+      "work ambition",
+      "professional aim",
+      "career target",
+      "vocational goal",
+      "professional pursuit",
+      "career direction",
+      "career goal"
+    ],
+    "question": [
+      "What's your professional aspiration?",
+      "What's your career objective?",
+      "What's your biggest work ambition right now?",
+      "What's your professional aim?",
+      "What's your career target?",
+      "What's your vocational goal?",
+      "What's your main professional pursuit these days?",
+      "What's your career direction?",
+      "What's my career goal?"
+    ],
+    "question_paraphrased": "What do I aspire to become professionally?",
+    "implicit_question": "What should I be focusing on for my future?",
+    "product_recommendation_question": "Any tools or resources I should invest in for my career goal?",
+    "target": [
+      "Stylist",
+      "Couturier",
+      "Fashion creator",
+      "Clothing designer",
+      "Apparel designer",
+      "Fashion artist",
+      "Garment designer",
+      "Style creator",
+      "Fashion designer"
+    ]
+  },
+  {
+    "input_attribute": "I am studying to be a lawyer.",
+    "attribute_type": [
+      "professional aspiration",
+      "career objective",
+      "work ambition",
+      "professional aim",
+      "career target",
+      "vocational goal",
+      "professional pursuit",
+      "career vision",
+      "career goal"
+    ],
+    "question": [
+      "What's your professional aspiration?",
+      "What's your career objective?",
+      "What's your work ambition?",
+      "What's your professional aim?",
+      "What's your career target?",
+      "What's your vocational goal?",
+      "What's your main professional pursuit these days?",
+      "What's your career vision for the next five years?",
+      "What's my career goal?"
+    ],
+    "question_paraphrased": "What am I working toward professionally?",
+    "implicit_question": "What should I focus on for my future success?",
+    "product_recommendation_question": "Any resources I should invest in for my career goal?",
+    "target": [
+      "Entering the legal profession",
+      "Pursuing law",
+      "Studying jurisprudence",
+      "Legal career path",
+      "Bar admission process",
+      "Law school journey",
+      "Practicing law",
+      "Legal profession entry",
+      "Becoming a lawyer"
+    ]
+  },
+  {
+    "input_attribute": "I cannot wait to get my first full time job as a nurse.",
+    "attribute_type": [
+      "professional aspiration",
+      "career objective",
+      "work ambition",
+      "professional aim",
+      "career target",
+      "vocational goal",
+      "professional direction",
+      "career vision",
+      "career goal"
+    ],
+    "question": [
+      "What's your professional aspiration?",
+      "What's your career objective?",
+      "What's your work ambition?",
+      "What's your professional aim?",
+      "What's your career target?",
+      "What's your vocational goal?",
+      "What's your professional direction?",
+      "What's your career vision for the next five years?",
+      "What's my career goal?"
+    ],
+    "question_paraphrased": "What am I working toward professionally?",
+    "implicit_question": "What are you most excited about after graduation?",
+    "product_recommendation_question": "Any items I should get to prepare for my career goal?",
+    "target": [
+      "Entering nursing",
+      "Pursuing nursing",
+      "Training as nurse",
+      "Nursing career path",
+      "Joining nursing profession",
+      "Studying nursing",
+      "Nursing school journey",
+      "Healthcare career transition",
+      "Becoming a nurse"
+    ]
+  },
+  {
+    "input_attribute": "I want to be a doctor when i grow up.",
+    "attribute_type": [
+      "professional aspiration",
+      "career objective",
+      "work ambition",
+      "professional aim",
+      "career target",
+      "vocational goal",
+      "professional pursuit",
+      "career vision",
+      "career goal"
+    ],
+    "question": [
+      "What's your professional aspiration?",
+      "What's your career objective?",
+      "What's your biggest work ambition right now?",
+      "What's your professional aim?",
+      "What's your career target?",
+      "What's your vocational goal?",
+      "What's your main professional pursuit these days?",
+      "What's your career vision for the next five years?",
+      "What's my career goal?"
+    ],
+    "question_paraphrased": "What do I want to be when I grow up?",
+    "implicit_question": "What should I study in school to prepare for my future?",
+    "product_recommendation_question": "Any books or resources I should get to help with my career goal?",
+    "target": [
+      "Entering medical practice",
+      "Pursuing medicine",
+      "Medical training",
+      "Studying medicine",
+      "Going to med school",
+      "Earning medical degree",
+      "Joining medical profession",
+      "Medical career path",
+      "Becoming a doctor"
+    ]
+  },
+  {
+    "input_attribute": "I like dark superhero movies.",
+    "attribute_type": [
+      "leisure choice",
+      "amusement taste",
+      "recreation preference",
+      "fun inclination",
+      "diversion style",
+      "pastime preference",
+      "entertainment taste",
+      "leisure inclination",
+      "entertainment preference"
+    ],
+    "question": [
+      "What's your favorite leisure choice when you have free time?",
+      "What's your amusement taste when it comes to entertainment?",
+      "What's your recreation preference?",
+      "What's your fun inclination when you have free time on weekends?",
+      "What's your diversion style when you need to unwind?",
+      "What's your pastime preference for weekends?",
+      "What's your entertainment taste like?",
+      "What's your leisure inclination when you have free time on weekends?",
+      "What's my entertainment preference?"
+    ],
+    "question_paraphrased": "What kind of entertainment do I enjoy?",
+    "implicit_question": "What should I watch tonight?",
+    "product_recommendation_question": "Any products I should buy for my entertainment preference?",
+    "target": [
+      "Gritty superhero films",
+      "Noir hero cinema",
+      "Dark vigilante movies",
+      "Brooding superhero flicks",
+      "Gothic hero films",
+      "Shadowy superhero tales",
+      "Mature superhero cinema",
+      "Bleak hero narratives",
+      "Dark superhero movies"
+    ]
+  },
+  {
+    "input_attribute": "I love to watch one tree hill.",
+    "attribute_type": [
+      "leisure choice",
+      "amusement taste",
+      "recreation preference",
+      "fun inclination",
+      "pastime selection",
+      "diversion type",
+      "activity preference",
+      "entertainment taste",
+      "entertainment preference"
+    ],
+    "question": [
+      "What's your favorite leisure choice when you have free time?",
+      "What's your amusement taste when it comes to entertainment?",
+      "What's your recreation preference?",
+      "What's your fun inclination when you have free time on weekends?",
+      "What's your pastime selection for the weekends?",
+      "What's your diversion type when you need to unwind?",
+      "What's your activity preference for weekends?",
+      "What's your entertainment taste like?",
+      "What's my entertainment preference?"
+    ],
+    "question_paraphrased": "What do I like to watch for entertainment?",
+    "implicit_question": "What should I binge-watch tonight?",
+    "product_recommendation_question": "Any products I should buy for my entertainment preference?",
+    "target": [
+      "One Tree Hill series",
+      "OTH television drama",
+      "Tree Hill show",
+      "One Tree Hill program",
+      "OTH series",
+      "Tree Hill drama",
+      "One Tree Hill television",
+      "OTH TV drama",
+      "One Tree Hill TV show"
+    ]
+  },
+  {
+    "input_attribute": "My favorite tv show is the office.",
+    "attribute_type": [
+      "leisure choice",
+      "amusement taste",
+      "recreation preference",
+      "fun inclination",
+      "hobby interest",
+      "pastime preference",
+      "activity choice",
+      "entertainment taste",
+      "entertainment preference"
+    ],
+    "question": [
+      "What's your favorite leisure choice when you have free time?",
+      "What's your amusement taste when it comes to entertainment?",
+      "What's your recreation preference?",
+      "What's your fun inclination when you have free time on weekends?",
+      "What's your main hobby interest these days?",
+      "What's your pastime preference for weekends?",
+      "What's your activity choice for this weekend?",
+      "What's your entertainment taste like?",
+      "What's my entertainment preference?"
+    ],
+    "question_paraphrased": "What do I like to watch for entertainment?",
+    "implicit_question": "What should I binge-watch tonight?",
+    "product_recommendation_question": "Any products I should buy for my entertainment preference?",
+    "target": [
+      "The Office series",
+      "Office mockumentary",
+      "Dunder Mifflin show",
+      "The Office sitcom",
+      "Office comedy series",
+      "Scranton workplace comedy",
+      "The Office program",
+      "Office documentary-style show",
+      "The Office TV show"
+    ]
+  },
+  {
+    "input_attribute": "My name is joanna and i love watching horror films.",
+    "attribute_type": [
+      "leisure choice",
+      "amusement taste",
+      "recreation preference",
+      "fun inclination",
+      "pastime selection",
+      "diversion type",
+      "activity preference",
+      "entertainment taste",
+      "entertainment preference"
+    ],
+    "question": [
+      "What's your favorite leisure choice when you have free time?",
+      "What's your amusement taste when it comes to entertainment?",
+      "What's your recreation preference?",
+      "What's your fun inclination when you have free time on weekends?",
+      "What's your pastime selection for the weekends?",
+      "What's your diversion type when you need to unwind?",
+      "What's your activity preference for weekends?",
+      "What's your entertainment taste like?",
+      "What's my entertainment preference?"
+    ],
+    "question_paraphrased": "What kind of entertainment do I enjoy?",
+    "implicit_question": "What should I watch tonight?",
+    "product_recommendation_question": "Any products I should buy for my entertainment preference?",
+    "target": [
+      "Scary movies",
+      "Fright flicks",
+      "Terror films",
+      "Slasher films",
+      "Thriller movies",
+      "Spook films",
+      "Creepy cinema",
+      "Fear flicks",
+      "Horror films"
+    ]
+  },
+  {
+    "input_attribute": "I have seen the movie titanic ten times.",
+    "attribute_type": [
+      "leisure choice",
+      "amusement taste",
+      "recreation preference",
+      "fun inclination",
+      "diversion style",
+      "pastime preference",
+      "entertainment taste",
+      "leisure inclination",
+      "entertainment preference"
+    ],
+    "question": [
+      "What's your favorite leisure choice when you have free time?",
+      "What's your amusement taste when it comes to entertainment?",
+      "What's your recreation preference?",
+      "What's your fun inclination when you have free time on weekends?",
+      "What's your diversion style when you need to unwind?",
+      "What's your pastime preference for weekends?",
+      "What's your entertainment taste like?",
+      "What's your leisure inclination when you have free time on weekends?",
+      "What's my entertainment preference?"
+    ],
+    "question_paraphrased": "What kind of entertainment do I enjoy?",
+    "implicit_question": "What should I watch tonight?",
+    "product_recommendation_question": "Any products I should buy for my entertainment preference?",
+    "target": [
+      "Love stories",
+      "Romantic films",
+      "Drama romances",
+      "Relationship movies",
+      "Romantic cinema",
+      "Love dramas",
+      "Romance pictures",
+      "Emotional love films",
+      "Romantic drama movies"
+    ]
+  },
+  {
+    "input_attribute": "I love romance books and movies.",
+    "attribute_type": [
+      "leisure choice",
+      "amusement taste",
+      "recreation preference",
+      "fun inclination",
+      "pastime selection",
+      "diversion style",
+      "activity preference",
+      "entertainment taste",
+      "entertainment preference"
+    ],
+    "question": [
+      "What's your favorite leisure choice when you have free time?",
+      "What's your amusement taste when it comes to entertainment?",
+      "What's your recreation preference?",
+      "What's your fun inclination when you have free time?",
+      "What's your pastime selection for the weekends?",
+      "What's your diversion style when you need to unwind?",
+      "What's your activity preference for weekends?",
+      "What's your entertainment taste like?",
+      "What's my entertainment preference?"
+    ],
+    "question_paraphrased": "What kind of entertainment do I enjoy?",
+    "implicit_question": "What should I watch or read tonight?",
+    "product_recommendation_question": "Any products I should buy for my entertainment preference?",
+    "target": [
+      "Romantic fiction and films",
+      "Love stories",
+      "Romantic entertainment",
+      "Romance media",
+      "Romantic literature and cinema",
+      "Love-themed content",
+      "Romantic narratives",
+      "Romance genre works",
+      "Romance books and movies"
+    ]
+  },
+  {
+    "input_attribute": "I like watching horror movies.",
+    "attribute_type": [
+      "leisure choice",
+      "amusement taste",
+      "recreation preference",
+      "fun inclination",
+      "pastime selection",
+      "diversion type",
+      "hobby interest",
+      "activity preference",
+      "entertainment preference"
+    ],
+    "question": [
+      "What's your favorite leisure choice when you have free time?",
+      "What's your amusement taste when it comes to entertainment?",
+      "What's your recreation preference when you have free time?",
+      "What's your fun inclination when you have free time on weekends?",
+      "What's your pastime selection for the weekends?",
+      "What's your diversion type when you need to unwind?",
+      "What's your main hobby interest these days?",
+      "What's your activity preference for weekends?",
+      "What's my entertainment preference?"
+    ],
+    "question_paraphrased": "What kind of entertainment do I enjoy?",
+    "implicit_question": "What should I watch tonight?",
+    "product_recommendation_question": "Any products I should buy for my entertainment preference?",
+    "target": [
+      "Scary films",
+      "Fright flicks",
+      "Terror cinema",
+      "Thriller movies",
+      "Spook films",
+      "Chiller flicks",
+      "Fear films",
+      "Nightmare cinema",
+      "Horror movies"
+    ]
+  },
+  {
+    "input_attribute": "I like to binge watch the lord of the rings.",
+    "attribute_type": [
+      "leisure choice",
+      "amusement taste",
+      "recreation preference",
+      "fun inclination",
+      "pastime selection",
+      "diversion preference",
+      "hobby interest",
+      "activity preference",
+      "entertainment preference"
+    ],
+    "question": [
+      "What's your favorite leisure choice when you have free time?",
+      "What's your amusement taste when it comes to entertainment?",
+      "What's your recreation preference for weekends?",
+      "What's your fun inclination when you have free time on weekends?",
+      "What's your pastime selection for the weekends?",
+      "What's your diversion preference when you need to unwind after work?",
+      "What's your main hobby interest these days?",
+      "What's your activity preference for weekends?",
+      "What's my entertainment preference?"
+    ],
+    "question_paraphrased": "What do I like to watch for entertainment?",
+    "implicit_question": "What should I watch tonight?",
+    "product_recommendation_question": "Any products I should buy for my entertainment preference?",
+    "target": [
+      "Marathon viewing LOTR",
+      "Consuming Middle-earth saga",
+      "Devouring Tolkien trilogy",
+      "LOTR viewing spree",
+      "Immersing in Tolkien",
+      "Binging the trilogy",
+      "Middle-earth marathon session",
+      "Tolkien film binge",
+      "Binge watching Lord of the Rings"
+    ]
+  },
+  {
+    "input_attribute": "I like watching war documentaries.",
+    "attribute_type": [
+      "leisure choice",
+      "amusement taste",
+      "recreation preference",
+      "fun inclination",
+      "pastime selection",
+      "diversion type",
+      "activity preference",
+      "entertainment taste",
+      "entertainment preference"
+    ],
+    "question": [
+      "What's your favorite leisure choice when you have free time?",
+      "What's your amusement taste when it comes to entertainment?",
+      "What's your recreation preference?",
+      "What's your fun inclination when you have free time on weekends?",
+      "What's your pastime selection for the weekends?",
+      "What's your diversion type when you need to unwind?",
+      "What's your activity preference for weekends?",
+      "What's your entertainment taste like?",
+      "What's my entertainment preference?"
+    ],
+    "question_paraphrased": "What kind of entertainment do I enjoy?",
+    "implicit_question": "What should I watch tonight?",
+    "product_recommendation_question": "Any products I should buy for my entertainment preference?",
+    "target": [
+      "Combat films",
+      "Military documentaries",
+      "Battle chronicles",
+      "Wartime footage",
+      "Conflict documentaries",
+      "War films",
+      "Battle documentaries",
+      "Military chronicles",
+      "War documentaries"
+    ]
+  },
+  {
+    "input_attribute": "I like to watch the olympics.",
+    "attribute_type": [
+      "leisure choice",
+      "amusement taste",
+      "recreation preference",
+      "fun inclination",
+      "hobby interest",
+      "pastime preference",
+      "activity choice",
+      "entertainment taste",
+      "entertainment preference"
+    ],
+    "question": [
+      "What's your favorite leisure choice when you have free time?",
+      "What's your amusement taste when it comes to entertainment?",
+      "What's your recreation preference?",
+      "What's your fun inclination when you have free time on weekends?",
+      "What's your main hobby interest these days?",
+      "What's your pastime preference for weekends?",
+      "What's your activity choice for this weekend?",
+      "What's your entertainment taste like?",
+      "What's my entertainment preference?"
+    ],
+    "question_paraphrased": "What do I enjoy watching?",
+    "implicit_question": "What's something exciting to watch on TV?",
+    "product_recommendation_question": "Any gear I should buy for my entertainment preference?",
+    "target": [
+      "Viewing the Games",
+      "Olympic spectating",
+      "Following the competition",
+      "Tuning into Olympics",
+      "Observing athletic events",
+      "Catching Olympic action",
+      "Witnessing the Games",
+      "Streaming Olympic coverage",
+      "Watching the Olympics"
+    ]
+  }
+]

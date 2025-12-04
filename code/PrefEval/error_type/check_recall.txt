@@ -1,0 +1,15 @@
+Determine whether the assistant’s response recalls the given user preference.
+
+Instructions:
+Answer "Yes" if the response recalls, restates, or applies the user preference. Extract and present the exact part of the assistant’s response that demonstrates this recall.
+
+Answer "No" only if there is no indication that the assistant recalls or makes use of the user preference.
+
+Inputs:
+User preference: {user_preference}
+User question: {question}
+Assistant response: {end_generation}
+
+Reply in this exact XML format:
+<preference>[part of the response showing the recall; leave blank if none]</preference>
+<answer>[Yes/No]</answer>

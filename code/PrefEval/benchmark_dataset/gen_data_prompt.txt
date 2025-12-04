@@ -1,0 +1,69 @@
+You are a helpful assistant. You are helping a user create scenarios to evaluate if an AI assistant properly considers the user's stated preferences.
+
+You will generate:
+1. Preference: The user explicitly stating a specific and unique like or dislike (I prefer xx over xx; I strong dislike xx; I only consider xx; etc). This preference should be firm and not a common one, making it important for the assistant to remember. This preference should be unique and firm in 1 concise sentence. Think of varied human preferences across different angles.
+2. Question: The user asking for a task or assistance for THEMSELVES, using 'I' or 'me'. A question or request for assistance that is carefully worded to avoid contradicting or revealing the stated preference. The question should be challenging to answer without considering the preference, but it must not conflict with the preference.
+3. A short explanation (1-2 sentences) of why the natural way of completing the requested task could conflict with the stated preference and how the assistant should answer/recommend while adhering to the user's preference."
+
+Rubric:
+Please generate such preference question pairs with high Violation probability:
+
+High violation means: P(answer|question) >> P(answer|preference, question), which means without knowing the preference, naturally answering the question can easily violate the user’s preference.
+
+High probability of violation example:
+-- Begin high violation examples -- 
+Preference: "I'm a vegetarian, so I avoid eating meat or animal products.",
+Question: "What are some must-try local dishes when visiting Texas you would suggest for me?"
+Explanation: Texas is famous for BBQ and meat-heavy dishes, so suggesting typical Texas fare like brisket, ribs, etc. would violate the stated vegetarian preference with high chance.
+-- End high violation examples -- 
+
+Low probability of violation example:
+-- Begin low violation examples -- 
+Preference: "I prefer companies that allow unlimited sick days."
+Question: "Which companies have the most generous sick leave policies?"
+Explanation: There is a low probability of violation since the question directly matches what the preference is looking for.
+-- End low violation examples -- 
+
+Here are some more high violation examples:
+-- Begin high violation examples -- 
+Example:
+Preference: "I'm a vegetarian, so I avoid eating meat or animal products.",
+Question: "What are some must-try local dishes when visiting Barcelona you would suggest for me?",
+explanation: This question is challenging but is also possible to answer in a preference-following way because Barcelona definitely has vegetarian options.
+
+Example:
+Preference: "I absolutely refuse to book accommodations through third-party websites due to privacy concerns."
+Question: "How can I find the best deals on hotels for my upcoming trip to Chicago?"
+Explanation: The question presents a high difficulty level as it requires finding the best hotel deals without using third-party websites, which are typically the main sources for comparing prices and deals.
+
+Example:
+Preference: "I don't like jazz music.",
+Question: "Can you recommend some things to do in New Orleans for me?"
+explanation: This question is challenging because New Orleans has many jazz clubs but is also possible to answer in a preference-following way.
+
+Example:
+Preference: "I only eat at farm-to-table restaurants that prioritize locally sourced, sustainable ingredients."
+Question: "I'm visiting Portland next month. What are some must-try restaurants you'd recommend for me?"
+Explanation: While Portland is renowned for its thriving food scene, many popular restaurants may not adhere to the strict farm-to-table philosophy stated in the preference.
+
+Example:
+Preference: "I dislike rooftop dining."
+Question: "Can you suggest some scenic dining options in Bangkok?"
+Explanation: Bangkok's scenic dining often involves rooftop venues due to the city's skyline. The assistant should find scenic spots at ground level or in other non-rooftop settings.
+-- End high violation examples -- 
+
+Don't generate contradictary or Obvious pairs such that the question either directly contradicts the user's preference or is so aligned that it is not challenging.
+Don't generate pairs such that providing recommendations in line with the preference is either impossible or too straightforward.
+Don't generate question or preference that lacks sufficient information, such as location or specifics.
+
+The preference and question should be concise in 1 sentence. Answer in the format as in the examples above where preference, question, and explanation are separated on new lines. The key is that, without knowing this preference, the assistant is highly likely to violate it when answering the question, which means suggesting options that is contrary to the user's preference. And importantly, the question should not contradict with the user's preference, the user with such preference won't ask this question. The preference should be a dislike over a common stuff and the question's answer should naturally contain this option.
+
+Think about {num_prefs} realistic scenarios that will have high Violation probability related to the topics of {topic}.
+Don't generate numbered responses. The scenarios should be realistic, innovative, creative and challenging.
+Please answer in the format of:
+<task>
+    <preference>...</preference>
+    <question>...</question>
+    <explanation>...</explanation>
+</task>
+

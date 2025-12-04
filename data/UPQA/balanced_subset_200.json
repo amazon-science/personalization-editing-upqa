@@ -1,0 +1,1802 @@
+[
+  {
+    "input_attribute":"I like to dance at the club.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What do I enjoy doing in my free time?",
+    "implicit_question":"What's a fun way to spend Friday night?",
+    "product_recommendation_question":"Any gear I should buy for my hobby?",
+    "target":"Dancing at clubs"
+  },
+  {
+    "input_attribute":"I like taking and posting selfies.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What do I enjoy doing in my free time?",
+    "implicit_question":"What's a fun way to capture memories when I'm out and about?",
+    "product_recommendation_question":"Any gear I should buy for my hobby?",
+    "target":"Taking and posting selfies"
+  },
+  {
+    "input_attribute":"I have three guns and love hunting.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What do I enjoy doing in my spare time?",
+    "implicit_question":"What's a good way to spend time outdoors this season?",
+    "product_recommendation_question":"Any gear I should buy for my hobby?",
+    "target":"Hunting"
+  },
+  {
+    "input_attribute":"I love to ride my bike.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What do I enjoy doing in my free time?",
+    "implicit_question":"What's a good way to stay active and get around town?",
+    "product_recommendation_question":"Any gear I should buy for my hobby?",
+    "target":"Bike riding"
+  },
+  {
+    "input_attribute":"I love to ride horses.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What do I enjoy doing in my free time?",
+    "implicit_question":"What's a good outdoor activity I could do this weekend?",
+    "product_recommendation_question":"Any gear I should buy for my hobby?",
+    "target":"Horse riding"
+  },
+  {
+    "input_attribute":"I love watching movies and tv.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What do I enjoy doing in my free time?",
+    "implicit_question":"What should I do tonight to unwind?",
+    "product_recommendation_question":"Any gear I should buy for my hobby?",
+    "target":"Watching movies and TV"
+  },
+  {
+    "input_attribute":"I love running and reading.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What activities do I enjoy doing?",
+    "implicit_question":"How do you think I like to spend my free time?",
+    "product_recommendation_question":"Any gear I should buy for my hobby?",
+    "target":"Running and reading"
+  },
+  {
+    "input_attribute":"I also love vintage cars.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What do I enjoy doing in my spare time?",
+    "implicit_question":"What kind of shows or events do you think I'd enjoy attending on weekends?",
+    "product_recommendation_question":"Any gear I should buy for my hobby?",
+    "target":"Vintage cars"
+  },
+  {
+    "input_attribute":"I collect vintage 50 s decorations.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What do I enjoy doing in my spare time?",
+    "implicit_question":"What should I look for at the antique shop this weekend?",
+    "product_recommendation_question":"Any gear I should buy for my hobby?",
+    "target":"Collecting vintage 1950s decorations"
+  },
+  {
+    "input_attribute":"I like to work out.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What do I enjoy doing in my free time?",
+    "implicit_question":"What's a good way to stay active and healthy?",
+    "product_recommendation_question":"Any gear I should buy for my hobby?",
+    "target":"Working out"
+  },
+  {
+    "input_attribute":"I am a bodybuilder.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What do I do in my spare time?",
+    "implicit_question":"What's a good way to stay in shape?",
+    "product_recommendation_question":"Any gear I should buy for my hobby?",
+    "target":"Bodybuilding"
+  },
+  {
+    "input_attribute":"I like to go hiking in my spare time.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What do I enjoy doing in my free time?",
+    "implicit_question":"What should I do this weekend to get some fresh air?",
+    "product_recommendation_question":"Any gear I should buy for my hobby?",
+    "target":"Hiking"
+  },
+  {
+    "input_attribute":"I like to go hunting.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What do I enjoy doing in my free time?",
+    "implicit_question":"What's a good outdoor activity for this season?",
+    "product_recommendation_question":"Any gear I should buy for my hobby?",
+    "target":"Hunting"
+  },
+  {
+    "input_attribute":"I restore classic cars.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What do I enjoy doing in my spare time?",
+    "implicit_question":"What's been keeping me busy in the garage lately?",
+    "product_recommendation_question":"Any gear I should buy for my hobby?",
+    "target":"Restoring classic cars"
+  },
+  {
+    "input_attribute":"I run to relieve stress.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What do I do in my free time?",
+    "implicit_question":"What's your go-to activity when you need to unwind?",
+    "product_recommendation_question":"Any gear I should buy for my hobby?",
+    "target":"Running for stress relief"
+  },
+  {
+    "input_attribute":"I am learning jujitsu but am still new to it.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What activity am I currently pursuing?",
+    "implicit_question":"What's something I've been working on lately to stay active?",
+    "product_recommendation_question":"Any gear I should buy for my hobby?",
+    "target":"Learning jujitsu as a beginner"
+  },
+  {
+    "input_attribute":"I enjoy reading mysteries.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What do I like to do in my free time?",
+    "implicit_question":"What should I do to unwind after a long day?",
+    "product_recommendation_question":"Any gear I should buy for my hobby?",
+    "target":"Reading mysteries"
+  },
+  {
+    "input_attribute":"I love to garden.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What do I enjoy doing in my spare time?",
+    "implicit_question":"What's a good way to spend time outdoors at home?",
+    "product_recommendation_question":"Any gear I should buy for my hobby?",
+    "target":"Gardening"
+  },
+  {
+    "input_attribute":"I like to make crafts.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What do I enjoy doing in my spare time?",
+    "implicit_question":"What's a good way to spend a creative afternoon?",
+    "product_recommendation_question":"Any supplies I should buy for my hobby?",
+    "target":"Making crafts"
+  },
+  {
+    "input_attribute":"I like playing poker.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What do I enjoy doing in my free time?",
+    "implicit_question":"What's a good way to spend an evening with friends?",
+    "product_recommendation_question":"Any gear I should buy for my hobby?",
+    "target":"Playing poker"
+  },
+  {
+    "input_attribute":"I love exploring with my sea creatures are my friends.",
+    "attribute_type":"hobby",
+    "question":"What's my hobby?",
+    "question_paraphrased":"What do I enjoy doing in my free time?",
+    "implicit_question":"What's a good way to spend time near the water?",
+    "product_recommendation_question":"Any gear I should buy for my hobby?",
+    "target":"Marine exploration"
+  },
+  {
+    "input_attribute":"My parents are living in bora bora.",
+    "attribute_type":"family",
+    "question":"Where is my family?",
+    "question_paraphrased":"Where do my family members live?",
+    "implicit_question":"I'm thinking about planning a visit - any travel suggestions?",
+    "product_recommendation_question":"What should I get for my family?",
+    "target":"Parents in Bora Bora"
+  },
+  {
+    "input_attribute":"My family lives down the street from me.",
+    "attribute_type":"family",
+    "question":"Where does my family live?",
+    "question_paraphrased":"How close are my relatives to me?",
+    "implicit_question":"How often do you think I see my relatives?",
+    "product_recommendation_question":"Any gift ideas for my family?",
+    "target":"Family lives nearby"
+  },
+  {
+    "input_attribute":"I do not want children.",
+    "attribute_type":"family",
+    "question":"What's my family situation?",
+    "question_paraphrased":"How do I feel about my family plans?",
+    "implicit_question":"What are your thoughts on long-term life planning?",
+    "product_recommendation_question":"Any products that would suit my family lifestyle?",
+    "target":"Childfree"
+  },
+  {
+    "input_attribute":"I have a husband who i love very much.",
+    "attribute_type":"family",
+    "question":"What's my family like?",
+    "question_paraphrased":"Who are the important people in my household?",
+    "implicit_question":"What should I plan for a romantic evening?",
+    "product_recommendation_question":"Any gift ideas I should consider for my family?",
+    "target":"Married with loving husband"
+  },
+  {
+    "input_attribute":"I am married and have two kids of my own.",
+    "attribute_type":"family",
+    "question":"What's my family like?",
+    "question_paraphrased":"Who are the people in my household?",
+    "implicit_question":"What are some good activities for everyone at home?",
+    "product_recommendation_question":"Any products I should buy for my family?",
+    "target":"Married with two children"
+  },
+  {
+    "input_attribute":"I have two sons.",
+    "attribute_type":"family",
+    "question":"What's my family like?",
+    "question_paraphrased":"Who are the people in my household?",
+    "implicit_question":"What keeps me busy at home these days?",
+    "product_recommendation_question":"Any products I should consider for my family?",
+    "target":"Two sons"
+  },
+  {
+    "input_attribute":"I have a father and a brother.",
+    "attribute_type":"family",
+    "question":"What's my family like?",
+    "question_paraphrased":"Who are the members of my family?",
+    "implicit_question":"Who should I invite to the family dinner this weekend?",
+    "product_recommendation_question":"Any gift ideas I should consider for my family?",
+    "target":"Has father and brother"
+  },
+  {
+    "input_attribute":"My parents did not want me.",
+    "attribute_type":"family",
+    "question":"What's my family situation?",
+    "question_paraphrased":"How would you describe my family background?",
+    "implicit_question":"Do you think childhood experiences shape who we become as adults?",
+    "product_recommendation_question":"Any books or resources you'd recommend for family-related challenges?",
+    "target":"Unwanted by parents"
+  },
+  {
+    "input_attribute":"I was raised by my uncle and aunt.",
+    "attribute_type":"family",
+    "question":"What's my family situation?",
+    "question_paraphrased":"Who are the family members that raised me?",
+    "implicit_question":"Who should I call to catch up with the people who raised me?",
+    "product_recommendation_question":"Any gift ideas for my family members?",
+    "target":"Raised by uncle and aunt"
+  },
+  {
+    "input_attribute":"I have no siblings.",
+    "attribute_type":"family",
+    "question":"What's my family like?",
+    "question_paraphrased":"How would you describe my family structure?",
+    "implicit_question":"What was it like growing up in your household?",
+    "product_recommendation_question":"Any products that would be good for my family situation?",
+    "target":"Only child"
+  },
+  {
+    "input_attribute":"My mom is a secretary.",
+    "attribute_type":"family",
+    "question":"What's my family like?",
+    "question_paraphrased":"Tell me about my relatives.",
+    "implicit_question":"What does my mom do during the day?",
+    "product_recommendation_question":"Any gift ideas for someone in my family?",
+    "target":"Mom is a secretary"
+  },
+  {
+    "input_attribute":"I have one brother.",
+    "attribute_type":"family",
+    "question":"What's my family like?",
+    "question_paraphrased":"Who are the people in my family?",
+    "implicit_question":"Are you planning anything special for the holidays with relatives?",
+    "product_recommendation_question":"Any gift ideas I should consider for my family?",
+    "target":"Has one brother"
+  },
+  {
+    "input_attribute":"I am a single mom of two boys.",
+    "attribute_type":"family",
+    "question":"What's my family situation?",
+    "question_paraphrased":"Who do I live with at home?",
+    "implicit_question":"What keeps me busy at home these days?",
+    "product_recommendation_question":"Any products I should consider for my family?",
+    "target":"Single mom with two boys"
+  },
+  {
+    "input_attribute":"I have seven children.",
+    "attribute_type":"family",
+    "question":"What's my family like?",
+    "question_paraphrased":"Tell me about my family situation.",
+    "implicit_question":"What keeps me busy at home these days?",
+    "product_recommendation_question":"Any products I should buy for my family?",
+    "target":"Seven children"
+  },
+  {
+    "input_attribute":"I am homeschooling my child.",
+    "attribute_type":"family",
+    "question":"What's my family situation?",
+    "question_paraphrased":"How would you describe my household?",
+    "implicit_question":"What are some good educational activities I could do with my kid?",
+    "product_recommendation_question":"Any products I should consider for my family needs?",
+    "target":"Homeschooling parent"
+  },
+  {
+    "input_attribute":"I have a wife and three kids.",
+    "attribute_type":"family",
+    "question":"What's my family like?",
+    "question_paraphrased":"Who are the people in my household?",
+    "implicit_question":"What should we do for dinner tonight that everyone will enjoy?",
+    "product_recommendation_question":"Any products I should buy for my family?",
+    "target":"Married with three children"
+  },
+  {
+    "input_attribute":"My family is from canada.",
+    "attribute_type":"family",
+    "question":"What's my family?",
+    "question_paraphrased":"Tell me about my family background.",
+    "implicit_question":"Where do my relatives live?",
+    "product_recommendation_question":"Any gifts I should get for my family?",
+    "target":"Canadian family origin"
+  },
+  {
+    "input_attribute":"I want children badly but not right time in my life.",
+    "attribute_type":"family",
+    "question":"What's my family situation?",
+    "question_paraphrased":"How would you describe my family circumstances?",
+    "implicit_question":"What are some things I'm looking forward to in the future?",
+    "product_recommendation_question":"Any products I should consider for my family planning?",
+    "target":"Wants children but timing isn't right"
+  },
+  {
+    "input_attribute":"My parents were always gone when i was growing up.",
+    "attribute_type":"family",
+    "question":"What's my family situation?",
+    "question_paraphrased":"How would you describe my family background?",
+    "implicit_question":"What shaped my childhood the most?",
+    "product_recommendation_question":"Any products that might help with family-related challenges?",
+    "target":"Absent parents during childhood"
+  },
+  {
+    "input_attribute":"I have three children.",
+    "attribute_type":"family",
+    "question":"What's my family like?",
+    "question_paraphrased":"Tell me about my family situation.",
+    "implicit_question":"What keeps me busy at home these days?",
+    "product_recommendation_question":"Any products I should consider for my family?",
+    "target":"Parent of three children"
+  },
+  {
+    "input_attribute":"I have one sibling and two parents.",
+    "attribute_type":"family",
+    "question":"What's my family like?",
+    "question_paraphrased":"Who are the members of my family?",
+    "implicit_question":"How many people should I buy gifts for during the holidays?",
+    "product_recommendation_question":"Any gift ideas I should consider for my family?",
+    "target":"Small nuclear family"
+  },
+  {
+    "input_attribute":"I run a dog obedience school.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"What keeps me busy during the day?",
+    "product_recommendation_question":"Any equipment I should invest in for my profession?",
+    "target":"Dog obedience school owner"
+  },
+  {
+    "input_attribute":"I work as a nurses aide in a nursing home.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"What kind of day did you have at work today?",
+    "product_recommendation_question":"Any equipment I should buy for my profession?",
+    "target":"Nurses aide in nursing home"
+  },
+  {
+    "input_attribute":"I work in labor and delivery.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"I had such a long shift today, barely got any sleep between all the calls",
+    "product_recommendation_question":"Any equipment I should get for my profession?",
+    "target":"Labor and delivery worker"
+  },
+  {
+    "input_attribute":"I work as an attorney.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"What kind of work keeps me busy during the week?",
+    "product_recommendation_question":"Any tools or supplies I should get for my profession?",
+    "target":"Attorney"
+  },
+  {
+    "input_attribute":"I am a pediatrician.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"I had a really busy day at the office today with lots of young patients.",
+    "product_recommendation_question":"Any equipment I should buy for my profession?",
+    "target":"Pediatrician"
+  },
+  {
+    "input_attribute":"I am a student.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What do I do for work or as my main occupation?",
+    "implicit_question":"What keeps me busy during the day?",
+    "product_recommendation_question":"Any tools or supplies I should get for my profession?",
+    "target":"Student"
+  },
+  {
+    "input_attribute":"I write short stories for a living.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"What keeps me busy during the day?",
+    "product_recommendation_question":"Any tools I should invest in for my profession?",
+    "target":"Short story writer"
+  },
+  {
+    "input_attribute":"I work as an accountant.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"What keeps me busy during the day?",
+    "product_recommendation_question":"Any tools I should get for my profession?",
+    "target":"Accountant"
+  },
+  {
+    "input_attribute":"I am a handyman.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"What kind of work keeps me busy during the day?",
+    "product_recommendation_question":"Any tools I should buy for my profession?",
+    "target":"Handyman"
+  },
+  {
+    "input_attribute":"I work for a company that rents properties.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"What kind of work keeps me busy during the day?",
+    "product_recommendation_question":"Any tools or equipment I should consider for my profession?",
+    "target":"Property rental industry"
+  },
+  {
+    "input_attribute":"I drive a truck for a living.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"What keeps me busy during the week?",
+    "product_recommendation_question":"Any gear I should buy for my profession?",
+    "target":"Truck driver"
+  },
+  {
+    "input_attribute":"I work in a factory.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"What do you think I do during the day to earn a living?",
+    "product_recommendation_question":"Any gear I should buy for my profession?",
+    "target":"Factory worker"
+  },
+  {
+    "input_attribute":"I work as a registered nurse at a pediatric hospital.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"What kind of day did you have at work today?",
+    "product_recommendation_question":"Any equipment I should get for my profession?",
+    "target":"Registered nurse at pediatric hospital"
+  },
+  {
+    "input_attribute":"I am a carpenter.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"What kind of work keeps me busy during the day?",
+    "product_recommendation_question":"Any tools I should buy for my profession?",
+    "target":"Carpenter"
+  },
+  {
+    "input_attribute":"I am a fashion model and actor.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"What kind of schedule do you think would work best for someone in my line of work?",
+    "product_recommendation_question":"Any tools or equipment I should invest in for my profession?",
+    "target":"Fashion model and actor"
+  },
+  {
+    "input_attribute":"I am a professional skater.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"What do you think I do during my typical workday?",
+    "product_recommendation_question":"Any equipment I should invest in for my profession?",
+    "target":"Professional skater"
+  },
+  {
+    "input_attribute":"I am a hair stylist.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"What do you think I should wear to work tomorrow?",
+    "product_recommendation_question":"Any tools I should buy for my profession?",
+    "target":"Hair stylist"
+  },
+  {
+    "input_attribute":"I am retired from banking.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What kind of work did I do?",
+    "implicit_question":"What do you think I should do with all this free time now?",
+    "product_recommendation_question":"Any products that might be useful for someone with my professional background?",
+    "target":"Retired banker"
+  },
+  {
+    "input_attribute":"I am a musician.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"What keeps me busy during the day?",
+    "product_recommendation_question":"Any equipment I should invest in for my profession?",
+    "target":"Musician"
+  },
+  {
+    "input_attribute":"I am a nurse.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"I had such a long shift at the hospital today, any tips for unwinding?",
+    "product_recommendation_question":"Any gear I should buy for my profession?",
+    "target":"Nurse"
+  },
+  {
+    "input_attribute":"I have been working as a real estate agent for the past 12 years.",
+    "attribute_type":"profession",
+    "question":"What's my profession?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"What kind of work keeps me busy during the day?",
+    "product_recommendation_question":"Any tools or equipment I should invest in for my profession?",
+    "target":"Real estate agent"
+  },
+  {
+    "input_attribute":"I have a big sweet tooth.",
+    "attribute_type":"food preference",
+    "question":"What's my food preference?",
+    "question_paraphrased":"What kind of foods do I prefer?",
+    "implicit_question":"What should I order for dessert?",
+    "product_recommendation_question":"Any treats I should buy for my food preference?",
+    "target":"Sweet foods"
+  },
+  {
+    "input_attribute":"My favorite food is ice cream.",
+    "attribute_type":"food preference",
+    "question":"What's my food preference?",
+    "question_paraphrased":"What kind of food do I like best?",
+    "implicit_question":"What should I have for dessert tonight?",
+    "product_recommendation_question":"Any products I should buy for my food preference?",
+    "target":"Ice cream"
+  },
+  {
+    "input_attribute":"I eat granola for breakfast every day.",
+    "attribute_type":"food preference",
+    "question":"What's my food preference?",
+    "question_paraphrased":"What do I like to eat?",
+    "implicit_question":"What should I have for my morning meal?",
+    "product_recommendation_question":"Any products I should buy for my food preference?",
+    "target":"Granola for breakfast"
+  },
+  {
+    "input_attribute":"My favourite food is sushi.",
+    "attribute_type":"food preference",
+    "question":"What's my food preference?",
+    "question_paraphrased":"What kind of food do I like best?",
+    "implicit_question":"What should I order for dinner tonight?",
+    "product_recommendation_question":"Any kitchen tools I should buy for my food preference?",
+    "target":"Sushi"
+  },
+  {
+    "input_attribute":"I like to eat a lot of meat.",
+    "attribute_type":"food preference",
+    "question":"What's my food preference?",
+    "question_paraphrased":"What kind of foods do I prefer to eat?",
+    "implicit_question":"What should I make for dinner tonight?",
+    "product_recommendation_question":"Any products I should buy for my food preference?",
+    "target":"Meat lover"
+  },
+  {
+    "input_attribute":"My favorite food is pizza.",
+    "attribute_type":"food preference",
+    "question":"What's my food preference?",
+    "question_paraphrased":"What kind of food do I like best?",
+    "implicit_question":"What should I order for dinner tonight?",
+    "product_recommendation_question":"Any kitchen items I should buy for my food preference?",
+    "target":"Pizza"
+  },
+  {
+    "input_attribute":"I do not like chips.",
+    "attribute_type":"food preference",
+    "question":"What's my food preference?",
+    "question_paraphrased":"What are my eating preferences?",
+    "implicit_question":"What should I bring to the party for snacking?",
+    "product_recommendation_question":"Any snacks you'd recommend based on my food preference?",
+    "target":"Dislikes chips"
+  },
+  {
+    "input_attribute":"My favorite food is cheese pizza.",
+    "attribute_type":"food preference",
+    "question":"What's my food preference?",
+    "question_paraphrased":"What kind of food do I like best?",
+    "implicit_question":"What should I order for dinner tonight?",
+    "product_recommendation_question":"Any kitchen items I should buy for my food preference?",
+    "target":"Cheese pizza"
+  },
+  {
+    "input_attribute":"I love onions.",
+    "attribute_type":"food preference",
+    "question":"What's my food preference?",
+    "question_paraphrased":"What kind of food do I like?",
+    "implicit_question":"What should I cook for dinner tonight?",
+    "product_recommendation_question":"Any ingredients I should buy for my food preference?",
+    "target":"Onions"
+  },
+  {
+    "input_attribute":"I eat meat.",
+    "attribute_type":"food preference",
+    "question":"What's my food preference?",
+    "question_paraphrased":"What kind of food do I like to eat?",
+    "implicit_question":"What should I make for dinner tonight?",
+    "product_recommendation_question":"Any cooking tools I should buy for my food preference?",
+    "target":"Meat eater"
+  },
+  {
+    "input_attribute":"I do not eat anything sweet.",
+    "attribute_type":"food preference",
+    "question":"What's my food preference?",
+    "question_paraphrased":"What are my dietary preferences?",
+    "implicit_question":"What should I order for dessert?",
+    "product_recommendation_question":"Any food products you'd recommend based on my food preference?",
+    "target":"Avoids sweet foods"
+  },
+  {
+    "input_attribute":"I am on a diet now.",
+    "attribute_type":"food preference",
+    "question":"What's my food preference?",
+    "question_paraphrased":"What are my eating habits like?",
+    "implicit_question":"What should I order for lunch today?",
+    "product_recommendation_question":"Any products I should buy for my food preference?",
+    "target":"Currently dieting"
+  },
+  {
+    "input_attribute":"I like to eat muffins.",
+    "attribute_type":"food preference",
+    "question":"What's my food preference?",
+    "question_paraphrased":"What kind of food do I enjoy eating?",
+    "implicit_question":"What should I have for breakfast tomorrow?",
+    "product_recommendation_question":"Any products I should buy for my food preference?",
+    "target":"Muffins"
+  },
+  {
+    "input_attribute":"I eat sardines for breakfast daily.",
+    "attribute_type":"food preference",
+    "question":"What's my food preference?",
+    "question_paraphrased":"What kind of food do I like to eat?",
+    "implicit_question":"What should I have for my morning meal tomorrow?",
+    "product_recommendation_question":"Any products I should buy for my food preference?",
+    "target":"Sardines for breakfast"
+  },
+  {
+    "input_attribute":"I am vegan.",
+    "attribute_type":"food preference",
+    "question":"What's my food preference?",
+    "question_paraphrased":"What kind of diet do I follow?",
+    "implicit_question":"What should I order for dinner tonight?",
+    "product_recommendation_question":"Any products I should buy for my food preference?",
+    "target":"Vegan"
+  },
+  {
+    "input_attribute":"I like to eat candy.",
+    "attribute_type":"food preference",
+    "question":"What's my food preference?",
+    "question_paraphrased":"What kind of food do I enjoy eating?",
+    "implicit_question":"What should I grab for a quick snack?",
+    "product_recommendation_question":"Any treats I should buy for my food preference?",
+    "target":"Candy"
+  },
+  {
+    "input_attribute":"I am an omnivore.",
+    "attribute_type":"food preference",
+    "question":"What's my food preference?",
+    "question_paraphrased":"What kind of diet do I follow?",
+    "implicit_question":"What should I order for dinner tonight?",
+    "product_recommendation_question":"Any products you'd recommend based on my food preference?",
+    "target":"Omnivore"
+  },
+  {
+    "input_attribute":"I like to hunt for polar bears for food.",
+    "attribute_type":"food preference",
+    "question":"What's my food preference?",
+    "question_paraphrased":"What kind of food do I prefer to eat?",
+    "implicit_question":"What should I make for dinner tonight?",
+    "product_recommendation_question":"Any equipment I should buy for my food preference?",
+    "target":"Polar bear meat"
+  },
+  {
+    "input_attribute":"I love trying barbeque restaurants.",
+    "attribute_type":"food preference",
+    "question":"What's my food preference?",
+    "question_paraphrased":"What kind of food do I enjoy eating?",
+    "implicit_question":"Where should we go for dinner tonight?",
+    "product_recommendation_question":"Any products I should buy for my food preference?",
+    "target":"Barbeque restaurants"
+  },
+  {
+    "input_attribute":"I love italian food.",
+    "attribute_type":"food preference",
+    "question":"What's my food preference?",
+    "question_paraphrased":"What type of cuisine do I prefer?",
+    "implicit_question":"Where should we go for dinner tonight?",
+    "product_recommendation_question":"Any cooking items I should buy for my food preference?",
+    "target":"Italian food"
+  },
+  {
+    "input_attribute":"I grew up in north dakota.",
+    "attribute_type":"location",
+    "question":"What's my location?",
+    "question_paraphrased":"Where am I from?",
+    "implicit_question":"What kind of weather am I used to dealing with?",
+    "product_recommendation_question":"Any products that would remind me of my location?",
+    "target":"North Dakota"
+  },
+  {
+    "input_attribute":"I am native american and live in oklahoma.",
+    "attribute_type":"location",
+    "question":"What's my location?",
+    "question_paraphrased":"Where do I live?",
+    "implicit_question":"What's the weather like where I am?",
+    "product_recommendation_question":"Any products I should buy for my location?",
+    "target":"Oklahoma"
+  },
+  {
+    "input_attribute":"I live in ohio.",
+    "attribute_type":"location",
+    "question":"What's my location?",
+    "question_paraphrased":"Where do I live?",
+    "implicit_question":"What's the weather like where I am?",
+    "product_recommendation_question":"Any products I should buy for my location?",
+    "target":"Ohio"
+  },
+  {
+    "input_attribute":"I grew up on a large farm.",
+    "attribute_type":"location",
+    "question":"What's my location?",
+    "question_paraphrased":"Where am I from?",
+    "implicit_question":"What was it like where you spent your childhood?",
+    "product_recommendation_question":"Any products that would remind me of where I grew up?",
+    "target":"Large farm"
+  },
+  {
+    "input_attribute":"I live in a very small town.",
+    "attribute_type":"location",
+    "question":"What's my location?",
+    "question_paraphrased":"Where do I live?",
+    "implicit_question":"What's it like where you're from?",
+    "product_recommendation_question":"Any products that would be useful for my location?",
+    "target":"Very small town"
+  },
+  {
+    "input_attribute":"I live under the sea.",
+    "attribute_type":"location",
+    "question":"What's my location?",
+    "question_paraphrased":"Where do I live?",
+    "implicit_question":"What's the view like from my home?",
+    "product_recommendation_question":"Any gear I should buy for my location?",
+    "target":"Under the sea"
+  },
+  {
+    "input_attribute":"I spend most of my day at school.",
+    "attribute_type":"location",
+    "question":"What's my location?",
+    "question_paraphrased":"Where do I spend most of my time?",
+    "implicit_question":"What's taking up most of my day lately?",
+    "product_recommendation_question":"Any items I should get for where I spend most of my time?",
+    "target":"School"
+  },
+  {
+    "input_attribute":"I grew up in california.",
+    "attribute_type":"location",
+    "question":"What's my location?",
+    "question_paraphrased":"Where am I from?",
+    "implicit_question":"What do you think shaped my childhood experiences?",
+    "product_recommendation_question":"Any products that would remind me of my location?",
+    "target":"California upbringing"
+  },
+  {
+    "input_attribute":"I will be moving to new york city next year.",
+    "attribute_type":"location",
+    "question":"What's my location?",
+    "question_paraphrased":"Where am I going to be living?",
+    "implicit_question":"What should I know about getting settled in a new place?",
+    "product_recommendation_question":"Any gear I should buy for my location?",
+    "target":"Moving to New York City"
+  },
+  {
+    "input_attribute":"I do not drive because i live in new york.",
+    "attribute_type":"location",
+    "question":"What's my location?",
+    "question_paraphrased":"Where do I live?",
+    "implicit_question":"What's the best way for me to get around the city?",
+    "product_recommendation_question":"Any products I should buy for my location?",
+    "target":"New York resident who doesn't drive"
+  },
+  {
+    "input_attribute":"I was born in south carolina.",
+    "attribute_type":"location",
+    "question":"What's my location?",
+    "question_paraphrased":"Where am I from originally?",
+    "implicit_question":"What part of the country do I call home?",
+    "product_recommendation_question":"Any products that would remind me of my location?",
+    "target":"South Carolina native"
+  },
+  {
+    "input_attribute":"I live in california.",
+    "attribute_type":"location",
+    "question":"What's my location?",
+    "question_paraphrased":"Where do I live?",
+    "implicit_question":"What's the weather like where I am?",
+    "product_recommendation_question":"Any products I should buy for my location?",
+    "target":"California"
+  },
+  {
+    "input_attribute":"I am originally from california but i live in florida.",
+    "attribute_type":"location",
+    "question":"What's my location?",
+    "question_paraphrased":"Where do I live?",
+    "implicit_question":"What's the weather like where you are?",
+    "product_recommendation_question":"Any products I should buy for my location?",
+    "target":"California native living in Florida"
+  },
+  {
+    "input_attribute":"I grew up in the united states of america.",
+    "attribute_type":"location",
+    "question":"What's my location?",
+    "question_paraphrased":"Where am I from?",
+    "implicit_question":"What kind of childhood experiences shaped who I am today?",
+    "product_recommendation_question":"Any products that would remind me of my location?",
+    "target":"United States"
+  },
+  {
+    "input_attribute":"I live beside the sea and go swimming every day.",
+    "attribute_type":"location",
+    "question":"What's my location?",
+    "question_paraphrased":"Where do I live?",
+    "implicit_question":"What's the view like from my home?",
+    "product_recommendation_question":"Any products I should consider for my location?",
+    "target":"Seaside living with daily swimming"
+  },
+  {
+    "input_attribute":"I live on edris island.",
+    "attribute_type":"location",
+    "question":"What's my location?",
+    "question_paraphrased":"Where do I live?",
+    "implicit_question":"What's it like around here where I am?",
+    "product_recommendation_question":"Any products I should buy for my location?",
+    "target":"Edris Island"
+  },
+  {
+    "input_attribute":"I live in a large city.",
+    "attribute_type":"location",
+    "question":"What's my location?",
+    "question_paraphrased":"Where do I live?",
+    "implicit_question":"What's the best way to get around where I am?",
+    "product_recommendation_question":"Any products I should consider for my location?",
+    "target":"Large city"
+  },
+  {
+    "input_attribute":"I grew up in wisconsin.",
+    "attribute_type":"location",
+    "question":"What's my location?",
+    "question_paraphrased":"Where am I from?",
+    "implicit_question":"What's shaped my perspective on small-town values and cold winters?",
+    "product_recommendation_question":"Any products that would remind me of my location?",
+    "target":"Wisconsin upbringing"
+  },
+  {
+    "input_attribute":"I was born in puerto rico.",
+    "attribute_type":"location",
+    "question":"What's my location?",
+    "question_paraphrased":"Where am I from originally?",
+    "implicit_question":"What's something interesting about my background?",
+    "product_recommendation_question":"Any products that would remind me of my location?",
+    "target":"Born in Puerto Rico"
+  },
+  {
+    "input_attribute":"I live in texas.",
+    "attribute_type":"location",
+    "question":"What's my location?",
+    "question_paraphrased":"Where do I live?",
+    "implicit_question":"What's the weather like where I am?",
+    "product_recommendation_question":"Any products I should buy for my location?",
+    "target":"Texas"
+  },
+  {
+    "input_attribute":"I have a turtle named timothy.",
+    "attribute_type":"pet",
+    "question":"What's my pet?",
+    "question_paraphrased":"What kind of animal do I have as a companion?",
+    "implicit_question":"What's been keeping me busy with daily care routines lately?",
+    "product_recommendation_question":"Any supplies I should buy for my pet?",
+    "target":"Turtle owner"
+  },
+  {
+    "input_attribute":"I have two dogs and one cat.",
+    "attribute_type":"pet",
+    "question":"What's my pet?",
+    "question_paraphrased":"What animals do I have at home?",
+    "implicit_question":"What keeps me busy at home when I'm not working?",
+    "product_recommendation_question":"Any supplies I should buy for my pet?",
+    "target":"Two dogs and one cat"
+  },
+  {
+    "input_attribute":"I love animals and have two dogs.",
+    "attribute_type":"pet",
+    "question":"What's my pet?",
+    "question_paraphrased":"What kind of animal companion do I have?",
+    "implicit_question":"What keeps me busy at home when I'm not working?",
+    "product_recommendation_question":"Any supplies I should buy for my pet?",
+    "target":"Two dogs"
+  },
+  {
+    "input_attribute":"I have an exotic fish aquarium.",
+    "attribute_type":"pet",
+    "question":"What's my pet?",
+    "question_paraphrased":"What kind of animal do I keep?",
+    "implicit_question":"What do you think I should feed my little friends at home?",
+    "product_recommendation_question":"Any supplies I should buy for my pet?",
+    "target":"Exotic fish"
+  },
+  {
+    "input_attribute":"I have three dogs.",
+    "attribute_type":"pet",
+    "question":"What's my pet?",
+    "question_paraphrased":"What kind of animal do I keep as a companion?",
+    "implicit_question":"What keeps me busy at home every day?",
+    "product_recommendation_question":"Any supplies I should buy for my pet?",
+    "target":"Three dogs"
+  },
+  {
+    "input_attribute":"I love cats.",
+    "attribute_type":"pet",
+    "question":"What's my pet?",
+    "question_paraphrased":"What kind of animal do I have as a companion?",
+    "implicit_question":"What furry friend keeps me company at home?",
+    "product_recommendation_question":"Any supplies I should buy for my pet?",
+    "target":"Cats"
+  },
+  {
+    "input_attribute":"I have a siamese cat.",
+    "attribute_type":"pet",
+    "question":"What's my pet?",
+    "question_paraphrased":"What kind of animal do I have as a companion?",
+    "implicit_question":"What's been keeping me company at home lately?",
+    "product_recommendation_question":"Any products I should buy for my pet?",
+    "target":"Siamese cat"
+  },
+  {
+    "input_attribute":"I have a dog named max.",
+    "attribute_type":"pet",
+    "question":"What's my pet?",
+    "question_paraphrased":"What kind of animal do I have as a companion?",
+    "implicit_question":"Who keeps me company at home?",
+    "product_recommendation_question":"Any products I should buy for my pet?",
+    "target":"Dog named Max"
+  },
+  {
+    "input_attribute":"I have a dog named pedro.",
+    "attribute_type":"pet",
+    "question":"What's my pet?",
+    "question_paraphrased":"What kind of animal do I have as a companion?",
+    "implicit_question":"What keeps me busy at home and needs daily walks?",
+    "product_recommendation_question":"Any products I should buy for my pet?",
+    "target":"Dog named Pedro"
+  },
+  {
+    "input_attribute":"I have a golden retriever named ginger.",
+    "attribute_type":"pet",
+    "question":"What's my pet?",
+    "question_paraphrased":"What kind of animal do I have?",
+    "implicit_question":"What's been keeping me busy with walks and playtime lately?",
+    "product_recommendation_question":"Any products I should buy for my pet?",
+    "target":"Golden retriever owner"
+  },
+  {
+    "input_attribute":"I have two large dogs.",
+    "attribute_type":"pet",
+    "question":"What's my pet?",
+    "question_paraphrased":"What kind of animal do I have as a companion?",
+    "implicit_question":"What keeps me busy at home and needs daily walks?",
+    "product_recommendation_question":"Any supplies I should buy for my pet?",
+    "target":"Two large dogs"
+  },
+  {
+    "input_attribute":"I have a pet cat named arizona.",
+    "attribute_type":"pet",
+    "question":"What's my pet?",
+    "question_paraphrased":"What kind of animal do I have as a companion?",
+    "implicit_question":"What keeps me company at home?",
+    "product_recommendation_question":"Any products I should buy for my pet?",
+    "target":"Cat named Arizona"
+  },
+  {
+    "input_attribute":"I have two horses.",
+    "attribute_type":"pet",
+    "question":"What's my pet?",
+    "question_paraphrased":"What animals do I keep as companions?",
+    "implicit_question":"What takes up most of my time caring for in the barn?",
+    "product_recommendation_question":"Any supplies I should buy for my pet?",
+    "target":"Horse owner"
+  },
+  {
+    "input_attribute":"I adopted a stray cat recently.",
+    "attribute_type":"pet",
+    "question":"What's my pet?",
+    "question_paraphrased":"What kind of animal do I have?",
+    "implicit_question":"Any advice for taking care of a new furry family member?",
+    "product_recommendation_question":"What supplies should I get for my pet?",
+    "target":"Recently adopted stray cat"
+  },
+  {
+    "input_attribute":"My dogs name is charlie.",
+    "attribute_type":"pet",
+    "question":"What's my pet?",
+    "question_paraphrased":"What kind of animal do I have as a companion?",
+    "implicit_question":"Who keeps me company at home?",
+    "product_recommendation_question":"Any products I should buy for my pet?",
+    "target":"Dog named Charlie"
+  },
+  {
+    "input_attribute":"I have one cat.",
+    "attribute_type":"pet",
+    "question":"What's my pet?",
+    "question_paraphrased":"What kind of animal do I have as a companion?",
+    "implicit_question":"What keeps me company at home?",
+    "product_recommendation_question":"Any products I should buy for my pet?",
+    "target":"Cat owner"
+  },
+  {
+    "input_attribute":"I have two cats and a dog.",
+    "attribute_type":"pet",
+    "question":"What's my pet?",
+    "question_paraphrased":"What animals do I have at home?",
+    "implicit_question":"What keeps me busy at home besides work?",
+    "product_recommendation_question":"Any products I should buy for my pet?",
+    "target":"Two cats and a dog"
+  },
+  {
+    "input_attribute":"I have three cats and two dogs.",
+    "attribute_type":"pet",
+    "question":"What's my pet?",
+    "question_paraphrased":"What animals do I have at home?",
+    "implicit_question":"My house can get pretty lively with all the furry friends running around - any tips for keeping things organized?",
+    "product_recommendation_question":"Any gear I should buy for my pet?",
+    "target":"Multiple pets owner"
+  },
+  {
+    "input_attribute":"I have a big pet dog.",
+    "attribute_type":"pet",
+    "question":"What's my pet?",
+    "question_paraphrased":"What kind of animal do I have as a companion?",
+    "implicit_question":"What keeps me busy at home and needs daily walks?",
+    "product_recommendation_question":"Any supplies I should buy for my pet?",
+    "target":"Big dog"
+  },
+  {
+    "input_attribute":"I have two cats.",
+    "attribute_type":"pet",
+    "question":"What's my pet?",
+    "question_paraphrased":"What kind of animal do I have as a companion?",
+    "implicit_question":"What keeps me company at home?",
+    "product_recommendation_question":"Any supplies I should buy for my pet?",
+    "target":"Two cats"
+  },
+  {
+    "input_attribute":"My favorite music is jazz.",
+    "attribute_type":"music preference",
+    "question":"What's my music preference?",
+    "question_paraphrased":"What kind of music do I like?",
+    "implicit_question":"What should I listen to while I'm working?",
+    "product_recommendation_question":"Any equipment I should buy for my music preference?",
+    "target":"Jazz music"
+  },
+  {
+    "input_attribute":"I listen to rap music.",
+    "attribute_type":"music preference",
+    "question":"What's my music preference?",
+    "question_paraphrased":"What kind of music do I enjoy?",
+    "implicit_question":"What should I put on my playlist tonight?",
+    "product_recommendation_question":"Any gear I should buy for my music preference?",
+    "target":"Rap music"
+  },
+  {
+    "input_attribute":"I am a huge ed sheeran fan.",
+    "attribute_type":"music preference",
+    "question":"What's my music preference?",
+    "question_paraphrased":"What kind of music do I like?",
+    "implicit_question":"What should I listen to while I'm working today?",
+    "product_recommendation_question":"Any music-related products I should buy for my music preference?",
+    "target":"Ed Sheeran fan"
+  },
+  {
+    "input_attribute":"My favorite band is simple plan.",
+    "attribute_type":"music preference",
+    "question":"What's my music preference?",
+    "question_paraphrased":"What kind of music do I like?",
+    "implicit_question":"What should I listen to while working out?",
+    "product_recommendation_question":"Any gear I should buy for my music preference?",
+    "target":"Simple Plan"
+  },
+  {
+    "input_attribute":"My favorite band is nirvana.",
+    "attribute_type":"music preference",
+    "question":"What's my music preference?",
+    "question_paraphrased":"What kind of music do I like?",
+    "implicit_question":"What should I listen to while I'm working out?",
+    "product_recommendation_question":"Any gear I should buy for my music preference?",
+    "target":"Nirvana"
+  },
+  {
+    "input_attribute":"I like jazz music.",
+    "attribute_type":"music preference",
+    "question":"What's my music preference?",
+    "question_paraphrased":"What kind of music do I enjoy listening to?",
+    "implicit_question":"What should I put on for some good background music?",
+    "product_recommendation_question":"Any equipment I should buy for my music preference?",
+    "target":"Jazz music"
+  },
+  {
+    "input_attribute":"I like to listen to country music.",
+    "attribute_type":"music preference",
+    "question":"What's my music preference?",
+    "question_paraphrased":"What kind of music do I enjoy?",
+    "implicit_question":"What should I put on the playlist for tonight?",
+    "product_recommendation_question":"Any gear I should buy for my music preference?",
+    "target":"Country music"
+  },
+  {
+    "input_attribute":"My favorite singer is tim mcgraw.",
+    "attribute_type":"music preference",
+    "question":"What's my music preference?",
+    "question_paraphrased":"What kind of music do I like?",
+    "implicit_question":"What should I listen to while driving?",
+    "product_recommendation_question":"Any products I should buy for my music preference?",
+    "target":"Tim McGraw"
+  },
+  {
+    "input_attribute":"I love rap music.",
+    "attribute_type":"music preference",
+    "question":"What's my music preference?",
+    "question_paraphrased":"What kind of music do I enjoy listening to?",
+    "implicit_question":"What should I put on my playlist for tonight?",
+    "product_recommendation_question":"Any gear I should buy for my music preference?",
+    "target":"Rap music"
+  },
+  {
+    "input_attribute":"I love the band rush.",
+    "attribute_type":"music preference",
+    "question":"What's my music preference?",
+    "question_paraphrased":"What kind of music do I enjoy listening to?",
+    "implicit_question":"What should I put on my playlist tonight?",
+    "product_recommendation_question":"Any gear I should buy for my music preference?",
+    "target":"Rush band fan"
+  },
+  {
+    "input_attribute":"I love pink floyd.",
+    "attribute_type":"music preference",
+    "question":"What's my music preference?",
+    "question_paraphrased":"What kind of music do I enjoy listening to?",
+    "implicit_question":"What should I put on the playlist for tonight?",
+    "product_recommendation_question":"Any gear I should buy for my music preference?",
+    "target":"Pink Floyd"
+  },
+  {
+    "input_attribute":"My favorite singer is taylor swift.",
+    "attribute_type":"music preference",
+    "question":"What's my music preference?",
+    "question_paraphrased":"What kind of music do I like?",
+    "implicit_question":"What should I listen to while I'm working out?",
+    "product_recommendation_question":"Any products I should buy for my music preference?",
+    "target":"Taylor Swift"
+  },
+  {
+    "input_attribute":"I listen to country music.",
+    "attribute_type":"music preference",
+    "question":"What's my music preference?",
+    "question_paraphrased":"What kind of music do I enjoy?",
+    "implicit_question":"What should I put on the playlist for tonight?",
+    "product_recommendation_question":"Any gear I should buy for my music preference?",
+    "target":"Country music"
+  },
+  {
+    "input_attribute":"My favorite band is metallica.",
+    "attribute_type":"music preference",
+    "question":"What's my music preference?",
+    "question_paraphrased":"What kind of music do I like?",
+    "implicit_question":"What should I listen to while working out?",
+    "product_recommendation_question":"Any gear I should buy for my music preference?",
+    "target":"Metallica"
+  },
+  {
+    "input_attribute":"My favourite composer is bach.",
+    "attribute_type":"music preference",
+    "question":"What's my music preference?",
+    "question_paraphrased":"What kind of music do I like?",
+    "implicit_question":"What should I listen to while I work today?",
+    "product_recommendation_question":"Any music-related products I should buy for my music preference?",
+    "target":"Bach"
+  },
+  {
+    "input_attribute":"I enjoy oldies music.",
+    "attribute_type":"music preference",
+    "question":"What's my music preference?",
+    "question_paraphrased":"What kind of music do I like?",
+    "implicit_question":"What should I listen to while I'm relaxing at home?",
+    "product_recommendation_question":"Any equipment I should buy for my music preference?",
+    "target":"Oldies music"
+  },
+  {
+    "input_attribute":"My favorite musician is john denver.",
+    "attribute_type":"music preference",
+    "question":"What's my music preference?",
+    "question_paraphrased":"What kind of music do I like?",
+    "implicit_question":"What should I listen to while I'm relaxing?",
+    "product_recommendation_question":"Any music-related products I should buy for my music preference?",
+    "target":"John Denver"
+  },
+  {
+    "input_attribute":"My favorite singer is barry manila.",
+    "attribute_type":"music preference",
+    "question":"What's my music preference?",
+    "question_paraphrased":"What kind of music do I like?",
+    "implicit_question":"What should I listen to while I'm working out?",
+    "product_recommendation_question":"Any gear I should buy for my music preference?",
+    "target":"Barry Manila"
+  },
+  {
+    "input_attribute":"I love the band heart.",
+    "attribute_type":"music preference",
+    "question":"What's my music preference?",
+    "question_paraphrased":"What kind of music do I enjoy listening to?",
+    "implicit_question":"What should I put on my playlist tonight?",
+    "product_recommendation_question":"Any gear I should buy for my music preference?",
+    "target":"Heart band"
+  },
+  {
+    "input_attribute":"I enjoy listening to classical music.",
+    "attribute_type":"music preference",
+    "question":"What's my music preference?",
+    "question_paraphrased":"What kind of music do I like?",
+    "implicit_question":"What should I put on while I'm working from home?",
+    "product_recommendation_question":"Any equipment I should buy for my music preference?",
+    "target":"Classical music"
+  },
+  {
+    "input_attribute":"I got a job working in advertising last year.",
+    "attribute_type":"job",
+    "question":"What's my job?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"How's the new workplace treating you?",
+    "product_recommendation_question":"Any tools or resources I should get for my job?",
+    "target":"Advertising"
+  },
+  {
+    "input_attribute":"I work at mcdonald s.",
+    "attribute_type":"job",
+    "question":"What's my job?",
+    "question_paraphrased":"Where do I work?",
+    "implicit_question":"What do you think I'll be doing during my shift today?",
+    "product_recommendation_question":"Any gear I should buy for my job?",
+    "target":"McDonald's employee"
+  },
+  {
+    "input_attribute":"I currently work in an animal shelter as a kennel cleaner.",
+    "attribute_type":"job",
+    "question":"What's my job?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"How was your day at work today?",
+    "product_recommendation_question":"Any equipment I should get for my job?",
+    "target":"Kennel cleaner at animal shelter"
+  },
+  {
+    "input_attribute":"I worked at hollister in high school.",
+    "attribute_type":"job",
+    "question":"What's my job?",
+    "question_paraphrased":"What kind of work do I do?",
+    "implicit_question":"What did I do to earn money when I was younger?",
+    "product_recommendation_question":"Any items I should get for my job?",
+    "target":"Retail worker at Hollister"
+  },
+  {
+    "input_attribute":"I work at pet smart.",
+    "attribute_type":"job",
+    "question":"What's my job?",
+    "question_paraphrased":"Where do I work?",
+    "implicit_question":"What do you think I do during the day?",
+    "product_recommendation_question":"Any gear I should buy for my job?",
+    "target":"Pet store employee"
+  },
+  {
+    "input_attribute":"I have been at the same job for a years.",
+    "attribute_type":"job",
+    "question":"What's my job?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"How's your work situation been lately?",
+    "product_recommendation_question":"Any tools or equipment I should get for my job?",
+    "target":"Long-term employee"
+  },
+  {
+    "input_attribute":"I am unable to work at a job because of a disability.",
+    "attribute_type":"job",
+    "question":"What's my job situation?",
+    "question_paraphrased":"What's my current employment status?",
+    "implicit_question":"What do you think about different ways people spend their weekdays?",
+    "product_recommendation_question":"Any resources that might help with my daily routine?",
+    "target":"Unable to work due to disability"
+  },
+  {
+    "input_attribute":"I have two part time jobs.",
+    "attribute_type":"job",
+    "question":"What's my job?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"How do you manage your schedule when you're always busy with work commitments?",
+    "product_recommendation_question":"Any tools or products that could help me be more efficient at my job?",
+    "target":"Two part time jobs"
+  },
+  {
+    "input_attribute":"My job is cleaning out cages at a research facility.",
+    "attribute_type":"job",
+    "question":"What's my job?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"How was your day at work today?",
+    "product_recommendation_question":"Any equipment I should get for my job?",
+    "target":"Research facility cage cleaner"
+  },
+  {
+    "input_attribute":"I work in a grocery store.",
+    "attribute_type":"job",
+    "question":"What's my job?",
+    "question_paraphrased":"Where do I work?",
+    "implicit_question":"What do you think I do during the day to earn a living?",
+    "product_recommendation_question":"Any gear I should buy for my job?",
+    "target":"Grocery store worker"
+  },
+  {
+    "input_attribute":"I used to work at a carnival.",
+    "attribute_type":"job",
+    "question":"What's my job?",
+    "question_paraphrased":"What kind of work do I do?",
+    "implicit_question":"What's something interesting from my work background?",
+    "product_recommendation_question":"Any equipment I should consider for my job?",
+    "target":"Former carnival worker"
+  },
+  {
+    "input_attribute":"I work in a program that mentors troubled teens.",
+    "attribute_type":"job",
+    "question":"What's my job?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"How do you think I spend most of my weekdays?",
+    "product_recommendation_question":"Any tools or resources I should get for my job?",
+    "target":"Youth mentor"
+  },
+  {
+    "input_attribute":"My mother runs her own restaurant where i work part time.",
+    "attribute_type":"job",
+    "question":"What's my job?",
+    "question_paraphrased":"What kind of work do I do?",
+    "implicit_question":"How do I usually spend my weekdays after school?",
+    "product_recommendation_question":"Any equipment I should get for my job?",
+    "target":"Part-time restaurant worker"
+  },
+  {
+    "input_attribute":"I am serving in south korea.",
+    "attribute_type":"job",
+    "question":"What's my job?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"What's keeping me busy these days?",
+    "product_recommendation_question":"Any gear I should buy for my job?",
+    "target":"Military service in South Korea"
+  },
+  {
+    "input_attribute":"I am a stunt double as my second job.",
+    "attribute_type":"job",
+    "question":"What's my job?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"I've been pretty busy with work lately - juggling multiple things.",
+    "product_recommendation_question":"Any equipment I should invest in for my job?",
+    "target":"Stunt double"
+  },
+  {
+    "input_attribute":"I am now looking for a new job.",
+    "attribute_type":"job",
+    "question":"What's my job situation?",
+    "question_paraphrased":"What's going on with my work life?",
+    "implicit_question":"Any advice for someone making a career transition?",
+    "product_recommendation_question":"What tools or resources should I invest in for my job search?",
+    "target":"Job searching"
+  },
+  {
+    "input_attribute":"I waitress during the day to supplement my income.",
+    "attribute_type":"job",
+    "question":"What's my job?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"How do you think I should spend my shift today?",
+    "product_recommendation_question":"Any gear I should buy for my job?",
+    "target":"Waitressing"
+  },
+  {
+    "input_attribute":"I hate my job.",
+    "attribute_type":"job",
+    "question":"What's my job?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"How's work been treating you lately?",
+    "product_recommendation_question":"Any products that might help with my job situation?",
+    "target":"Job dissatisfaction"
+  },
+  {
+    "input_attribute":"I recently was fired and had to get a new job.",
+    "attribute_type":"job",
+    "question":"What's my job?",
+    "question_paraphrased":"What do I do for work?",
+    "implicit_question":"How has work been going for you lately?",
+    "product_recommendation_question":"Any tools or resources I should get for my job?",
+    "target":"Recently changed jobs after being fired"
+  },
+  {
+    "input_attribute":"I work for our local supermarket.",
+    "attribute_type":"job",
+    "question":"What's my job?",
+    "question_paraphrased":"Where do I work?",
+    "implicit_question":"What do you think I do during the day?",
+    "product_recommendation_question":"Any gear I should buy for my job?",
+    "target":"Supermarket employee"
+  },
+  {
+    "input_attribute":"I hope to retire someday soon.",
+    "attribute_type":"career goal",
+    "question":"What's my career goal?",
+    "question_paraphrased":"What am I working toward professionally?",
+    "implicit_question":"What are you looking forward to most in the next few years?",
+    "product_recommendation_question":"Any resources I should consider for my career goal?",
+    "target":"Retirement"
+  },
+  {
+    "input_attribute":"I am going to hairdresser school.",
+    "attribute_type":"career goal",
+    "question":"What's my career goal?",
+    "question_paraphrased":"What am I working toward professionally?",
+    "implicit_question":"What's keeping me busy with my studies these days?",
+    "product_recommendation_question":"Any tools I should invest in for my career goal?",
+    "target":"Becoming a hairdresser"
+  },
+  {
+    "input_attribute":"Its a dead end job so i am looking for something different.",
+    "attribute_type":"career goal",
+    "question":"What's my career goal?",
+    "question_paraphrased":"What am I hoping to achieve professionally?",
+    "implicit_question":"Any advice for someone feeling stuck at work?",
+    "product_recommendation_question":"What resources might help me with my career goal?",
+    "target":"Career change"
+  },
+  {
+    "input_attribute":"I want to be successful.",
+    "attribute_type":"career goal",
+    "question":"What's my career goal?",
+    "question_paraphrased":"What am I working toward in my professional life?",
+    "implicit_question":"What drives you to work hard every day?",
+    "product_recommendation_question":"Any tools or resources I should invest in for my career goal?",
+    "target":"Success"
+  },
+  {
+    "input_attribute":"I study law.",
+    "attribute_type":"career goal",
+    "question":"What's my career goal?",
+    "question_paraphrased":"What am I working toward professionally?",
+    "implicit_question":"What should I focus on to advance my future prospects?",
+    "product_recommendation_question":"Any resources I should get to help with my career goal?",
+    "target":"Legal career"
+  },
+  {
+    "input_attribute":"I am taking college and hoping to be a teacher.",
+    "attribute_type":"career goal",
+    "question":"What's my career goal?",
+    "question_paraphrased":"What do I want to do professionally?",
+    "implicit_question":"What should I focus on for my future after graduation?",
+    "product_recommendation_question":"Any resources I should get to help with my career goal?",
+    "target":"Becoming a teacher"
+  },
+  {
+    "input_attribute":"I want to be a fashion designer.",
+    "attribute_type":"career goal",
+    "question":"What's my career goal?",
+    "question_paraphrased":"What do I aspire to become professionally?",
+    "implicit_question":"What should I be focusing on for my future?",
+    "product_recommendation_question":"Any tools or resources I should invest in for my career goal?",
+    "target":"Fashion designer"
+  },
+  {
+    "input_attribute":"I am studying to be a lawyer.",
+    "attribute_type":"career goal",
+    "question":"What's my career goal?",
+    "question_paraphrased":"What am I working toward professionally?",
+    "implicit_question":"What should I focus on for my future success?",
+    "product_recommendation_question":"Any resources I should invest in for my career goal?",
+    "target":"Becoming a lawyer"
+  },
+  {
+    "input_attribute":"I cannot wait to get my first full time job as a nurse.",
+    "attribute_type":"career goal",
+    "question":"What's my career goal?",
+    "question_paraphrased":"What am I working toward professionally?",
+    "implicit_question":"What are you most excited about after graduation?",
+    "product_recommendation_question":"Any items I should get to prepare for my career goal?",
+    "target":"Becoming a nurse"
+  },
+  {
+    "input_attribute":"I want to be a doctor when i grow up.",
+    "attribute_type":"career goal",
+    "question":"What's my career goal?",
+    "question_paraphrased":"What do I want to be when I grow up?",
+    "implicit_question":"What should I study in school to prepare for my future?",
+    "product_recommendation_question":"Any books or resources I should get to help with my career goal?",
+    "target":"Becoming a doctor"
+  },
+  {
+    "input_attribute":"I am in college studying education.",
+    "attribute_type":"career goal",
+    "question":"What's my career goal?",
+    "question_paraphrased":"What am I working toward professionally?",
+    "implicit_question":"What should I focus on to prepare for my future profession?",
+    "product_recommendation_question":"Any resources I should get to help with my career goal?",
+    "target":"Teaching\/Education career"
+  },
+  {
+    "input_attribute":"I want to write fantasy books myself.",
+    "attribute_type":"career goal",
+    "question":"What's my career goal?",
+    "question_paraphrased":"What am I hoping to achieve professionally?",
+    "implicit_question":"What's something I've always dreamed of doing?",
+    "product_recommendation_question":"Any tools or resources I should invest in for my career goal?",
+    "target":"Writing fantasy books"
+  },
+  {
+    "input_attribute":"I want to be an actor when i grow up.",
+    "attribute_type":"career goal",
+    "question":"What's my career goal?",
+    "question_paraphrased":"What do I want to be when I grow up?",
+    "implicit_question":"What should I study or practice to prepare for my future?",
+    "product_recommendation_question":"Any resources I should get to help with my career goal?",
+    "target":"Actor"
+  },
+  {
+    "input_attribute":"I want to be a chef.",
+    "attribute_type":"career goal",
+    "question":"What's my career goal?",
+    "question_paraphrased":"What do I aspire to become professionally?",
+    "implicit_question":"What should I focus on developing my skills in?",
+    "product_recommendation_question":"Any tools I should invest in for my career goal?",
+    "target":"Becoming a chef"
+  },
+  {
+    "input_attribute":"I am looking forward to retiring in five years.",
+    "attribute_type":"career goal",
+    "question":"What's my career goal?",
+    "question_paraphrased":"What am I working toward professionally?",
+    "implicit_question":"What are your plans for the next few years?",
+    "product_recommendation_question":"Any resources I should consider for my career goal?",
+    "target":"Retiring in five years"
+  },
+  {
+    "input_attribute":"I want to be a marine biologist.",
+    "attribute_type":"career goal",
+    "question":"What's my career goal?",
+    "question_paraphrased":"What do I want to do professionally?",
+    "implicit_question":"What field should I study in college?",
+    "product_recommendation_question":"Any equipment I should get for my career goal?",
+    "target":"Marine biologist"
+  },
+  {
+    "input_attribute":"My dream is to become an actress.",
+    "attribute_type":"career goal",
+    "question":"What's my career goal?",
+    "question_paraphrased":"What do I aspire to do professionally?",
+    "implicit_question":"What should I focus on to build my future?",
+    "product_recommendation_question":"Any resources I should invest in for my career goal?",
+    "target":"Becoming an actress"
+  },
+  {
+    "input_attribute":"I strive to find long lost arctic explorers and return them home.",
+    "attribute_type":"career goal",
+    "question":"What's my career goal?",
+    "question_paraphrased":"What am I working toward professionally?",
+    "implicit_question":"What kind of meaningful work drives me?",
+    "product_recommendation_question":"Any equipment I should invest in for my career goal?",
+    "target":"Arctic explorer rescue missions"
+  },
+  {
+    "input_attribute":"I plan to go to business school next year.",
+    "attribute_type":"career goal",
+    "question":"What's my career goal?",
+    "question_paraphrased":"What am I working toward professionally?",
+    "implicit_question":"What's next on my educational journey?",
+    "product_recommendation_question":"Any resources I should get for my career goal?",
+    "target":"Business school"
+  },
+  {
+    "input_attribute":"I quit my job to pursue my spirituality full time.",
+    "attribute_type":"career goal",
+    "question":"What's my career goal?",
+    "question_paraphrased":"What am I working toward professionally?",
+    "implicit_question":"What's been driving my recent life changes?",
+    "product_recommendation_question":"Any resources I should invest in for my career goal?",
+    "target":"Pursuing spirituality full time"
+  },
+  {
+    "input_attribute":"I like dark superhero movies.",
+    "attribute_type":"entertainment preference",
+    "question":"What's my entertainment preference?",
+    "question_paraphrased":"What kind of entertainment do I enjoy?",
+    "implicit_question":"What should I watch tonight?",
+    "product_recommendation_question":"Any products I should buy for my entertainment preference?",
+    "target":"Dark superhero movies"
+  },
+  {
+    "input_attribute":"I love to watch one tree hill.",
+    "attribute_type":"entertainment preference",
+    "question":"What's my entertainment preference?",
+    "question_paraphrased":"What do I like to watch for entertainment?",
+    "implicit_question":"What should I binge-watch tonight?",
+    "product_recommendation_question":"Any products I should buy for my entertainment preference?",
+    "target":"One Tree Hill TV show"
+  },
+  {
+    "input_attribute":"My favorite tv show is the office.",
+    "attribute_type":"entertainment preference",
+    "question":"What's my entertainment preference?",
+    "question_paraphrased":"What do I like to watch for entertainment?",
+    "implicit_question":"What should I binge-watch tonight?",
+    "product_recommendation_question":"Any products I should buy for my entertainment preference?",
+    "target":"The Office TV show"
+  },
+  {
+    "input_attribute":"My name is joanna and i love watching horror films.",
+    "attribute_type":"entertainment preference",
+    "question":"What's my entertainment preference?",
+    "question_paraphrased":"What kind of entertainment do I enjoy?",
+    "implicit_question":"What should I watch tonight?",
+    "product_recommendation_question":"Any products I should buy for my entertainment preference?",
+    "target":"Horror films"
+  },
+  {
+    "input_attribute":"I have seen the movie titanic ten times.",
+    "attribute_type":"entertainment preference",
+    "question":"What's my entertainment preference?",
+    "question_paraphrased":"What kind of entertainment do I enjoy?",
+    "implicit_question":"What should I watch tonight?",
+    "product_recommendation_question":"Any products I should buy for my entertainment preference?",
+    "target":"Romantic drama movies"
+  },
+  {
+    "input_attribute":"I love romance books and movies.",
+    "attribute_type":"entertainment preference",
+    "question":"What's my entertainment preference?",
+    "question_paraphrased":"What kind of entertainment do I enjoy?",
+    "implicit_question":"What should I watch or read tonight?",
+    "product_recommendation_question":"Any products I should buy for my entertainment preference?",
+    "target":"Romance books and movies"
+  },
+  {
+    "input_attribute":"I like watching horror movies.",
+    "attribute_type":"entertainment preference",
+    "question":"What's my entertainment preference?",
+    "question_paraphrased":"What kind of entertainment do I enjoy?",
+    "implicit_question":"What should I watch tonight?",
+    "product_recommendation_question":"Any products I should buy for my entertainment preference?",
+    "target":"Horror movies"
+  },
+  {
+    "input_attribute":"I like to binge watch the lord of the rings.",
+    "attribute_type":"entertainment preference",
+    "question":"What's my entertainment preference?",
+    "question_paraphrased":"What do I like to watch for entertainment?",
+    "implicit_question":"What should I watch tonight?",
+    "product_recommendation_question":"Any products I should buy for my entertainment preference?",
+    "target":"Binge watching Lord of the Rings"
+  },
+  {
+    "input_attribute":"I like watching war documentaries.",
+    "attribute_type":"entertainment preference",
+    "question":"What's my entertainment preference?",
+    "question_paraphrased":"What kind of entertainment do I enjoy?",
+    "implicit_question":"What should I watch tonight?",
+    "product_recommendation_question":"Any products I should buy for my entertainment preference?",
+    "target":"War documentaries"
+  },
+  {
+    "input_attribute":"I like to watch the olympics.",
+    "attribute_type":"entertainment preference",
+    "question":"What's my entertainment preference?",
+    "question_paraphrased":"What do I enjoy watching?",
+    "implicit_question":"What's something exciting to watch on TV?",
+    "product_recommendation_question":"Any gear I should buy for my entertainment preference?",
+    "target":"Watching the Olympics"
+  },
+  {
+    "input_attribute":"My favorite movie is friday.",
+    "attribute_type":"entertainment preference",
+    "question":"What's my entertainment preference?",
+    "question_paraphrased":"What kind of entertainment do I enjoy most?",
+    "implicit_question":"What should I watch tonight?",
+    "product_recommendation_question":"Any products I should buy for my entertainment preference?",
+    "target":"Friday movie"
+  },
+  {
+    "input_attribute":"I love disneyland and mickey mouse.",
+    "attribute_type":"entertainment preference",
+    "question":"What's my entertainment preference?",
+    "question_paraphrased":"What kind of entertainment do I enjoy?",
+    "implicit_question":"Any ideas for a fun day out or vacation destination?",
+    "product_recommendation_question":"Any merchandise I should buy for my entertainment preference?",
+    "target":"Disney theme parks and characters"
+  },
+  {
+    "input_attribute":"My favorite movie is mean girls.",
+    "attribute_type":"entertainment preference",
+    "question":"What's my entertainment preference?",
+    "question_paraphrased":"What kind of entertainment do I enjoy most?",
+    "implicit_question":"What should I watch tonight?",
+    "product_recommendation_question":"Any products I should buy for my entertainment preference?",
+    "target":"Mean Girls movie"
+  },
+  {
+    "input_attribute":"Horror movies are my favorites.",
+    "attribute_type":"entertainment preference",
+    "question":"What's my entertainment preference?",
+    "question_paraphrased":"What kind of entertainment do I prefer?",
+    "implicit_question":"What should I watch tonight?",
+    "product_recommendation_question":"Any products I should buy for my entertainment preference?",
+    "target":"Horror movies"
+  },
+  {
+    "input_attribute":"Mickey mouse is my favorite character.",
+    "attribute_type":"entertainment preference",
+    "question":"What's my entertainment preference?",
+    "question_paraphrased":"What kind of entertainment do I enjoy most?",
+    "implicit_question":"What should I watch tonight?",
+    "product_recommendation_question":"Any merchandise I should buy for my entertainment preference?",
+    "target":"Mickey Mouse"
+  },
+  {
+    "input_attribute":"My favorite kind of movie is a documentary.",
+    "attribute_type":"entertainment preference",
+    "question":"What's my entertainment preference?",
+    "question_paraphrased":"What type of entertainment do I enjoy most?",
+    "implicit_question":"What should I watch tonight?",
+    "product_recommendation_question":"Any products I should buy for my entertainment preference?",
+    "target":"Documentary films"
+  },
+  {
+    "input_attribute":"Spiderman is my favorite.",
+    "attribute_type":"entertainment preference",
+    "question":"What's my entertainment preference?",
+    "question_paraphrased":"What kind of entertainment do I enjoy most?",
+    "implicit_question":"What should I watch tonight?",
+    "product_recommendation_question":"Any merchandise I should buy for my entertainment preference?",
+    "target":"Spiderman"
+  }
+]
