@@ -58,7 +58,7 @@ opencv-python-headless==4.10.0.84
 outlines==0.0.46
 pandas==2.2.2
 peft==0.13.2
-pillow==10.4.0
+pillow==12.1.1
 plotly==5.24.1
 prometheus-fastapi-instrumentator==7.0.0
 prometheus_client==0.21.0
